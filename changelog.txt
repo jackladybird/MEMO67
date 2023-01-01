@@ -1,4 +1,75 @@
-[Change log]
+[changelog]
+
+[changelog preface]
+
+GitHub initial commit started at svn version [050], 010123.
+
+[050] contains the following features:
+
+  -Framebuffer stuff.
+
+  -Collisions (very basic, preemptive function).
+
+  -Input handling (keyboard & mouse).
+
+  -Timing (basic).
+
+  -Line renderer.
+    -Supports sdf-mode (as well as mesh mode) which renders lines as an sdf
+      surface. Much slower, but cool.
+
+  -SDF surface.
+    -SDFs rendered in-shader with raymarching.
+  
+  -Camera (basic)
+    -Orthographic and perspective.
+
+  -Model, View, Projection matrices.
+
+  -Matrices and Vectors (templated).
+    -M4x4 matrices support SIMD multiplication.
+
+  -Buffer resolution independence:
+    -Lighting passes as well as final frame resolution can be set.
+
+  -Lighting, directional and point.
+    -Currently lights are deferred only. 
+    -Rendered in two passes, first directional lights, then point lights.
+
+  -Deferred rendering.
+    -When deferred rendering is enabled, Goji's internal loop binds a deferred
+    framebuffer, subsequent draw calls are then rendered to the gbuffer/s.
+    Lighting is then rendered with the gbuffer/s as input (as well as lighting
+    constant buffers) before finally rendering the frame to a quad.
+
+  -Shader system:
+    -Single .sha shader files are written containing both .hlsl and .glsl code, 
+      the file separates the two shader languages, as well as vertex and pixel
+      shaders with #defines.
+    -Constant buffers.
+    -Each 'default' (i.e part of Goji, not a custom added shader) shader corresponds to a enum value.
+    -'Default' shaders include gbuffer variants, phong model, gouraud model, sprite, generic model, line, etc.
+
+  -Sprite rendering with animation.
+
+  -Sprite batcher.
+
+  -OBJ model loader. (basic)
+
+  -BMP image loader.
+
+  -Dx11 and OpenGL3.3 backends. Current version [050] has not yet implemented
+    Dx11 for the new framebuffer deferred stuff.
+
+  -Custom data structures:
+    -Dynamic array
+    -Hashtable, current hash function starts with a constant and then uses a
+      prime number table along with various circular shifts, additions,
+      multiplications etc, works well enough for now.
+    -Linked list (single)
+
+Official start date 021122. - Project started 260922 with svn commit [001],
+however, real work started on 021122 with svn commit [021].
 
 --gojiblue
 
