@@ -1,10 +1,16 @@
 [changelog]
+  
+  [052-020123] - Working on adding Dx11 support for the new framebuffer stuff.
+               - Did a small 2.5D test (DST style). Cool.
+
+  [051-010123] - Changelog updates.
+  [050-010123] - Initial commits.
 
 [changelog preface]
 
 GitHub initial commit started at svn version [050], 010123.
 
-[050] contains the following features:
+[050-010123] contains the following features:
 
   -Framebuffer stuff.
 
