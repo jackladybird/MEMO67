@@ -1,5 +1,8 @@
 [changelog]
   
+  [053-030123] - Dx11 support for framebuffer stuff is in a working state.
+               - Various API changes, relating to the new Dx11 changes.
+
   [052-020123] - Working on adding Dx11 support for the new framebuffer stuff.
                - Did a small 2.5D test (DST style). Cool.
 
