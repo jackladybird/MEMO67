@@ -1,4 +1,5 @@
 [changelog]
+  [056-040123] - Added depth buffer texture to opengl version of gbuffer pass, forgot about it.
 
   [055-040123] - Added functions to bind specific framebuffer slots.
                - Added functions to clear all render targets/attachments, necessary to individually clear for opengl
