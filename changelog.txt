@@ -1,5 +1,11 @@
 [changelog]
 
+  [055-040123] - Added functions to bind specific framebuffer slots.
+               - Added functions to clear all render targets/attachments, necessary to individually clear for opengl
+              as when attachments are of different size. (opengl renders the smallest of the attachments, so large ones are only partially
+              cleared/drawn to when cleared together). Dx11 doesn't support rendertargets of different size, but they are cleared
+              individually with ClearRenderTargetView() anyway." 
+
   [054-040123] - Added render view resize function.
                - Changed window creation to use AdjustWindowRect() (win32), necessary to get consistent resize between dx11 and opengl, 
                I think opengl's ndc are set with the initial gl context, so glViewport() sets the correct w/h without needing to adjust 
