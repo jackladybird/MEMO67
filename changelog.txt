@@ -1,4 +1,10 @@
 [changelog]
+
+  [054-040123] - Added render view resize function.
+               - Changed window creation to use AdjustWindowRect() (win32), necessary to get consistent resize between dx11 and opengl, 
+               I think opengl's ndc are set with the initial gl context, so glViewport() sets the correct w/h without needing to adjust 
+               to account for border/style sizes, whereas dx11 requires adjustment. Creating the window with AdjustWindowRect() normalises
+               behaviour between dx11 and opengl.
   
   [053-030123] - Dx11 support for framebuffer stuff is in a working state.
                - Various API changes, relating to the new Dx11 changes.
