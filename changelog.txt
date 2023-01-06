@@ -1,4 +1,6 @@
 [changelog]
+  [058-060123] - Fixed bug with sprite batcher and normal data.
+
   [057-050123] - Cleaned up primitive_render code. Added some render stat stuff. Fixed HLSL deferred shaders.
 
   [056-040123] - Added depth buffer texture to opengl version of gbuffer pass, forgot about it.
