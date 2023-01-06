@@ -1,4 +1,5 @@
 [changelog]
+  [059-060123] - Temporary fix for depth buffer resolution mismatch for light pass.
   [058-060123] - Fixed bug with sprite batcher and normal data.
 
   [057-050123] - Cleaned up primitive_render code. Added some render stat stuff. Fixed HLSL deferred shaders.
