@@ -1,5 +1,7 @@
 [changelog]
 
+  [062-090123] - Minor cleanups.
+
   [061-080123] - Fixed bug with bitmap text uvs.
 
   [060-070123] - Added bitmap text rendering, still some bugs to fix.
