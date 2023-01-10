@@ -1,5 +1,7 @@
 [changelog]
 
+  [063-100123] - Few cleanups.
+
   [062-090123] - Minor cleanups.
 
   [061-080123] - Fixed bug with bitmap text uvs.
