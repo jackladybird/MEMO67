@@ -1,5 +1,7 @@
 [changelog]
 
+  [064-110123] - Added primitive gid.
+
   [063-100123] - Few cleanups.
 
   [062-090123] - Minor cleanups.
