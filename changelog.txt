@@ -1,5 +1,7 @@
 [changelog]
 
+  [066-130123] - Minor cleanup. 
+
   [065-120123] - Added primitive remove function, untested.
 
   [064-110123] - Added primitive gid
