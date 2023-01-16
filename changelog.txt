@@ -1,5 +1,7 @@
 [changelog]
 
+  [069-160123] - Lighting cleanups.
+
   [068-150123] - Primitive union renaming.
 
   [067-140123] - Cleanups. 
