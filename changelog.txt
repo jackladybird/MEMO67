@@ -1,5 +1,7 @@
 [changelog]
 
+  [073-200123] - Continued work on dx11 text backend.
+
   [072-190123] - Added text dx11 backend.
 
   [071-180123] - Commenting.
