@@ -1,5 +1,10 @@
 [changelog]
 
+  [074-210123] - Fixed bugs with text uvs.
+               - Sourced dx11 depth bug.
+               - Fixed bug with passing colour data to buffer for text.
+               - Vertex data buffer now void*, not float*.
+
   [073-200123] - Continued work on dx11 text backend.
 
   [072-190123] - Added text dx11 backend.
