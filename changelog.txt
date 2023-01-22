@@ -1,5 +1,8 @@
 [changelog]
 
+  [075-220123] - Text shaders revised.
+               - Deferred text v0 complete.
+
   [074-210123] - Fixed bugs with text uvs.
                - Sourced dx11 depth bug.
                - Fixed bug with passing colour data to buffer for text.
