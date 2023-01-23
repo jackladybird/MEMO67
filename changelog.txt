@@ -1,5 +1,7 @@
 [changelog]
 
+  [077-230123] - Added aspect ratio to text.
+               - Added rect and wrapping to text.
   [076-230123] - Added text resizing/changing.
 
   [075-220123] - Text shaders revised.
