@@ -1,5 +1,7 @@
 [changelog]
 
+  [076-230123] - Added text resizing/changing.
+
   [075-220123] - Text shaders revised.
                - Deferred text v0 complete.
 
