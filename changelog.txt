@@ -1,5 +1,6 @@
 [changelog]
 
+  [078-230123] - Text moved to a forward render pass, was causing unnecessary complications with main deferred pass.
   [077-230123] - Added aspect ratio to text.
                - Added rect and wrapping to text.
   [076-230123] - Added text resizing/changing.
