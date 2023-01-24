@@ -1,5 +1,7 @@
 [changelog]
 
+  [079-240123] - Line renderer now rendered as a forward pass before UI.
+
   [078-230123] - Text moved to a forward render pass, was causing unnecessary complications with main deferred pass.
   [077-230123] - Added aspect ratio to text.
                - Added rect and wrapping to text.
