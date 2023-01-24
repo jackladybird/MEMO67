@@ -1,5 +1,6 @@
 [changelog]
 
+  [082-240123] - Decoupled render primitives and gapi buffer data. For better or worse, hopefully gids will be robust.
   [081-240123] - Changes to lighting primitives as well as main 'lights' container.
   [080-240123] - Added basics for a shared library build. Needs some decoupling of internals to keep the import header light.
                - Added basic example using a linked .dll build of the engine.
