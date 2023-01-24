@@ -1,5 +1,7 @@
 [changelog]
 
+  [080-240123] - Added basics for a shared library build. Needs some decoupling of internals to keep the import header light.
+               - Added basic example using a linked .dll build of the engine.
   [079-240123] - Line renderer now rendered as a forward pass before UI.
 
   [078-230123] - Text moved to a forward render pass, was causing unnecessary complications with main deferred pass.
