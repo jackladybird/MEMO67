@@ -1,5 +1,6 @@
 [changelog]
 
+  [085-250123] - Textures now use a similar GID system as primitives.
   [084-250123] - Removed some redundancies, cleanup to core render loop.
   [083-250123] - Primitives now use a header/primitive pair, which can be
               looked up with a single GID. This is in keeping with decoupling render
