@@ -1,5 +1,12 @@
 [changelog]
 
+  [083-250123] - Primitives now use a header/primitive pair, which can be
+              looked up with a single GID. This is in keeping with decoupling render
+              primitives from last version, whilst keeping code a lot cleaner and further
+              decouples primitive data as external structures (renderables) keep no
+              primitive data references, only a GID. This was a very large change and may require patches.
+
+
   [082-240123] - Decoupled render primitives and gapi buffer data. For better or worse, hopefully gids will be robust.
   [081-240123] - Changes to lighting primitives as well as main 'lights' container.
   [080-240123] - Added basics for a shared library build. Needs some decoupling of internals to keep the import header light.
