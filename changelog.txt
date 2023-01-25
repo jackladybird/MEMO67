@@ -1,5 +1,6 @@
 [changelog]
 
+  [086-250123] - Added single header for projects to use with dynamic link build.
   [085-250123] - Textures now use a similar GID system as primitives.
   [084-250123] - Removed some redundancies, cleanup to core render loop.
   [083-250123] - Primitives now use a header/primitive pair, which can be
