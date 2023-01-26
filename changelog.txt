@@ -1,4 +1,5 @@
 [changelog]
+  [091-260123] - Added uv tiling to sprites/sprite detail.
   [090-260123] - Fixed bug with dx11 sampling interpolated tex_ids, resulting in glitches when multiple textures
                are bound to a sprite batcher.
   [089-260123] - Fixed bitwise rgba parse being read backwards.
