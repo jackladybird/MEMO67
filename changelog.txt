@@ -1,4 +1,6 @@
 [changelog]
+  [089-260123] - Fixed bitwise rgba parse being read backwards.
+               - Fixed a few oversights from last lighting changes.
   [088-260123] - Lights now handle types properly.
                - Lights now have a separate constant buffer for point lights and directional lights, 
               this is to reduce loops in shaders, previously they were all packed together and first pass, as well as 
