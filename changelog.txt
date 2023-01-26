@@ -1,4 +1,10 @@
 [changelog]
+  [088-260123] - Lights now handle types properly.
+               - Lights now have a separate constant buffer for point lights and directional lights, 
+              this is to reduce loops in shaders, previously they were all packed together and first pass, as well as 
+              second pass light shaders had the same constant buffers (i.e light count). The two pass lighting is to 
+              support resolution independence for point lights and directional lights. (i.e, can crush resolution of either
+              light types to improve performance if desired).
   [087-260123] - Changed GID references to handles, to avoid confusion with typical guid/uuids.
 
   [086-250123] - Added single header for projects to use with dynamic link build.
