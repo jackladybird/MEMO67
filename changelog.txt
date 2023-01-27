@@ -1,4 +1,9 @@
 [changelog]
+  [092-270123] - Added sprite animator which handles animation functions (i.e play animation), 
+               as well as specifying relevant data for the shader to use.
+               - Testing things with an example scene.
+               - Added build system stuff for examples.
+
   [091-260123] - Added uv tiling to sprites/sprite detail.
   [090-260123] - Fixed bug with dx11 sampling interpolated tex_ids, resulting in glitches when multiple textures
                are bound to a sprite batcher.
