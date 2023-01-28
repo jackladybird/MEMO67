@@ -1,4 +1,7 @@
 [changelog]
+  [093-280123] - Added depth sorting, has temporarily broken batching.
+               - Removed 'renderable' inheritance from text, not necessary, would require depth sorting to account for it.
+
   [092-270123] - Added sprite animator which handles animation functions (i.e play animation), 
                as well as specifying relevant data for the shader to use.
                - Testing things with an example scene.
