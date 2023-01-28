@@ -1,4 +1,6 @@
 [changelog]
+  [094-280123] - Fixed some issues with depth sorting.
+               - Input now uses a bitflag8 type, and some functions have been changed to improve response.
   [093-280123] - Added depth sorting, has temporarily broken batching.
                - Removed 'renderable' inheritance from text, not necessary, would require depth sorting to account for it.
 
