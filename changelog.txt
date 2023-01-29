@@ -1,4 +1,9 @@
 [changelog]
+  [095-290123] - Added functions to add colliders to sprites. Currently collisions are preempted when a sprite is moved,
+               they are not all resolved as a single function, that'll come later when needed.
+               - Changed layout of lights, point lights now support falloff and radius. (point lights currently not using 
+               normals on the point light pass, will need to add another shader to use normals with lights for 3d model stuff).
+
   [094-280123] - Fixed some issues with depth sorting.
                - Input now uses a bitflag8 type, and some functions have been changed to improve response.
   [093-280123] - Added depth sorting, has temporarily broken batching.
