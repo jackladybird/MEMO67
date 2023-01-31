@@ -1,4 +1,10 @@
 [changelog]
+  [098-310123] - Added one-shot line render.
+               - Some minor changes to cameras and how frustums are stored.
+               - Re-enabled sprite batcher with new depth sorting stuff, it's in a basic working mode, needs to be bullet-proofed.
+               - Restructured the line renderer, no longer has a 'line_renderer' object, just basic functions. The new model is similar to 
+               the primitive/collider/goji_handle.
+
   [097-300123] - Added on_collide functions for colliders.
                - Removed 'rect_2d', now there's just bbox and a separate collider struct.
                - A few minor changes to cameras and sprites.
