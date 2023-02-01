@@ -1,4 +1,6 @@
 [changelog]
+  [099-010223] - Added plane/ray intersect function.
+
   [098-310123] - Added one-shot line render.
                - Some minor changes to cameras and how frustums are stored.
                - Re-enabled sprite batcher with new depth sorting stuff, it's in a basic working mode, needs to be bullet-proofed.
