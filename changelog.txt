@@ -1,4 +1,7 @@
 [changelog]
+  [100-010223] - Fixed bug with frustum culling.
+               - Added temporary frustum cull 'overdraw', should move to using bbox bounds for precise culling.
+               - Added 'observer/fly cam'.
   [099-010223] - Added plane/ray intersect function.
 
   [098-310123] - Added one-shot line render.
