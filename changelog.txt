@@ -1,4 +1,13 @@
 [changelog]
+  [101-020223] - Added guids to renderables, the guid is used to identify various structs, indexing htables, etc.
+               - All sprites are now added to a hash table with their key being their renderable guid.
+               - Framebuffers can now support a 'staging' texture slot for dx11 (just one currently). OpenGL version won't need one.
+               - Added an additional gbuffer texture that renders the guid of relevant elements (i.e sprites).
+               - Added a function to retreive a single pixel from the guid buffer.
+               - Added proper primitive_destroy function that does all necessary cleanup.
+               - Few fixes here and there. 
+               - Note: opengl backend is currently lagging behind dx11 with addition of new features.
+
   [100-010223] - Fixed bug with frustum culling.
                - Added temporary frustum cull 'overdraw', should move to using bbox bounds for precise culling.
                - Added 'observer/fly cam'.
