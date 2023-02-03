@@ -1,4 +1,6 @@
 [changelog]
+  [103-030223] - Added general purpose handle manager.
+               - Added guid picking data to sprite batching.
   [102-030223] - Added sprite batcher depth sorting.
                - Some changes to benchmarking functions.
 
