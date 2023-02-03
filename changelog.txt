@@ -1,4 +1,7 @@
 [changelog]
+  [102-030223] - Added sprite batcher depth sorting.
+               - Some changes to benchmarking functions.
+
   [101-020223] - Added guids to renderables, the guid is used to identify various structs, indexing htables, etc.
                - All sprites are now added to a hash table with their key being their renderable guid.
                - Framebuffers can now support a 'staging' texture slot for dx11 (just one currently). OpenGL version won't need one.
