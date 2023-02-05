@@ -1,4 +1,10 @@
 [changelog]
+  [106-050223] - DX shaders now add #defines on shader compile (will add ogl later).
+               - Lights are now checked if visible before sending to gpu. (precursor to quadtree)
+               - Lights now use handle system.
+               - Removed references to 'fastlights'
+               - Added 'on_ms' function.
+
   [105-050223] - Added framebuffer render texture formats for 16 and 32 bit.
                - Fixed bug with point light rendering.
 
