@@ -1,4 +1,7 @@
 [changelog]
+  [105-050223] - Added framebuffer render texture formats for 16 and 32 bit.
+               - Fixed bug with point light rendering.
+
   [104-040223] - Minor cleanup.
 
   [103-030223] - Added general purpose handle manager.
