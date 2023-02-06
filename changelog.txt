@@ -1,4 +1,9 @@
 [changelog]
+  [108-060223] - Added ping-pong to sprite animator.
+               - Deferred render now holds onto the last drawn frame until
+               _after_ the update callback function. This is to enable sampling of gbuffer textures if necessary (i.e guid/picking frame).
+               - Sprite batcher draw procedure has been changed to enable the deferred frame changes. Batches now cache data, similar to 
+               renderable procedure.
   [107-060223] - Added draw debug flag to engine properties.
                - Added mouse clicks to input.
 
