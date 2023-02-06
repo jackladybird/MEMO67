@@ -1,4 +1,6 @@
 [changelog]
+  [109-060223] - Added contains_key function to hashtables.
+               - Changed depth sorting to use quicksort instead of bubblesort. 
   [108-060223] - Added ping-pong to sprite animator.
                - Deferred render now holds onto the last drawn frame until
                _after_ the update callback function. This is to enable sampling of gbuffer textures if necessary (i.e guid/picking frame).
