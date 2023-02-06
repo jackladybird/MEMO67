@@ -1,4 +1,7 @@
 [changelog]
+  [107-060223] - Added draw debug flag to engine properties.
+               - Added mouse clicks to input.
+
   [106-050223] - DX shaders now add #defines on shader compile (will add ogl later).
                - Lights are now checked if visible before sending to gpu. (precursor to quadtree)
                - Lights now use handle system.
