@@ -1,4 +1,10 @@
 [changelog]
+  [110-070223] - Added sprite density function, which basically generates the relevant data for a plane mesh with subdivisions.
+               - Added render support for various density sprites.
+               - Sprite batcher now is agnostic to sprite mesh densities.
+               - Static sprite build support various sprite densities.
+               - Added camera pos to view matrix constant buffer to allow for 'world bending'. (May move to separate cbuf in future).
+
   [109-060223] - Added contains_key function to hashtables.
                - Changed depth sorting to use quicksort instead of bubblesort. 
   [108-060223] - Added ping-pong to sprite animator.
