@@ -1,4 +1,6 @@
 [changelog]
+  [113-080223] - Added basic 'ui-sprite'.
+               - Some further example testing.
   [112-080223] - Separated sprite batcher stuff into its own source.
                - Cleaned up batcher api.
   [111-080223] - Added caching of sprite various densities. 
