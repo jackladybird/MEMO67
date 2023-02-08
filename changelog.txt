@@ -1,4 +1,8 @@
 [changelog]
+  [111-080223] - Added caching of sprite various densities. 
+               - Sprite batchers now have a fixed size, and buffers are allocated with a maximum size on initialisation.
+               If a batch call (begin/end) exceeds the limit, the buffered sprites get subdivided into another batch (separate draw call).
+
   [110-070223] - Added sprite density function, which basically generates the relevant data for a plane mesh with subdivisions.
                - Added render support for various density sprites.
                - Sprite batcher now is agnostic to sprite mesh densities.
