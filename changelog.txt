@@ -1,4 +1,6 @@
 [changelog]
+  [112-080223] - Separated sprite batcher stuff into its own source.
+               - Cleaned up batcher api.
   [111-080223] - Added caching of sprite various densities. 
                - Sprite batchers now have a fixed size, and buffers are allocated with a maximum size on initialisation.
                If a batch call (begin/end) exceeds the limit, the buffered sprites get subdivided into another batch (separate draw call).
