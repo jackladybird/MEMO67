@@ -1,4 +1,9 @@
 [changelog]
+  [114-090223] - Continuing some example testing.
+               - Added near sprite transparency in main sprite shader.
+               - Some changes to camera data updating.
+               - Added vignette and blur to deferred quad shader.
+
   [113-080223] - Added basic 'ui-sprite'.
                - Some further example testing.
   [112-080223] - Separated sprite batcher stuff into its own source.
