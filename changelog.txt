@@ -1,4 +1,7 @@
 [changelog]
+  [120-150223] - Added draw layers to renderables to improve draw call order.
+               - Static batchers are now sent to normal draw call buffer.
+
   [119-140223] - Game work[4].
 
   [118-130223] - Game work[3].
