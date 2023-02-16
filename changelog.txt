@@ -1,4 +1,5 @@
 [changelog]
+  [123-160223] - Game work[6].
   [122-160223] - Added mouse scroll handling.
                - Models/sprites/batchers are now required to bind their own shader. At render, the currently bound shader is now used,
                not the shader of the primitive. May revert this in future.
