@@ -1,4 +1,8 @@
 [changelog]
+  [122-160223] - Added mouse scroll handling.
+               - Models/sprites/batchers are now required to bind their own shader. At render, the currently bound shader is now used,
+               not the shader of the primitive. May revert this in future.
+
   [121-150223] - Game work[5].
   [120-150223] - Added draw layers to renderables to improve draw call order.
                - Static batchers are now sent to normal draw call buffer.
