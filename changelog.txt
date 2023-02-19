@@ -1,4 +1,7 @@
 [changelog]
+  [126-190223] - Added M4x4F inverse/determinant.
+               - Game work[9].
+
   [125-180223] - Fixed bug with htable.contains_key().
                - Game work[8].
 
