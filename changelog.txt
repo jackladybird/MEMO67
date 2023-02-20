@@ -1,4 +1,7 @@
 [changelog]
+  [127-200223] - Added pivot to sprite/pivot transformation.
+               - Game work[10].
+
   [126-190223] - Added M4x4F inverse/determinant.
                - Game work[9].
 
