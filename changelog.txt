@@ -1,4 +1,7 @@
 [changelog]
+  [129-220223] - Fixed pivot scale offset.
+               - Game work[12].
+
   [128-210223] - Game work[11].
 
   [127-200223] - Added pivot to sprite/pivot transformation.
