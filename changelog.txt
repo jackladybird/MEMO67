@@ -1,4 +1,7 @@
 [changelog]
+  [130-230223] - Added pivot to batched sprites.
+               - Game work[13].
+
   [129-220223] - Fixed pivot scale offset.
                - Game work[12].
 
