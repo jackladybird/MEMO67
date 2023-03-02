@@ -1,4 +1,7 @@
 [changelog]
+  [137-020323] - Added model load axis flip. Added load model->sprite (quad only).
+               - Game work[20].
+
   [136-010323] - Added some new time functions (frame ms, internal avg fps). Added new hash function overload for char*, as well as new 
                 htable comparison function. 
                - Game work[19].
