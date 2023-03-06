@@ -1,4 +1,7 @@
 [changelog]
+  [142-060323] - Started large renderable restructure to remove virtual functions / vtable stuff. 
+               - Game work[23].
+
   [141-050323] - Game work[23].
   [140-050323] - Added hotload for textures. Added oneshot for text. Fixed target fps. Fixed _on_ms()_ not working correctly with multiple calls.
 
