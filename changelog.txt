@@ -1,6 +1,9 @@
 [changelog]
+  [143-070323] - Sprites, models (and renderables) are now POD, there is no inheritance chain. This will likely be tuned in future.
+               - Game work[25].
+
   [142-060323] - Started large renderable restructure to remove virtual functions / vtable stuff. 
-               - Game work[23].
+               - Game work[24].
 
   [141-050323] - Game work[23].
   [140-050323] - Added hotload for textures. Added oneshot for text. Fixed target fps. Fixed _on_ms()_ not working correctly with multiple calls.
