@@ -1,4 +1,7 @@
 [changelog]
+  [144-080323] - Added 'sprite bundle' that can load multiple quads from an .obj and load them as separate sprites.
+               - Game work[26].
+
   [143-070323] - Sprites, models (and renderables) are now POD, there is no inheritance chain. This will likely be tuned in future.
                - Game work[25].
 
