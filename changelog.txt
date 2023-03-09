@@ -1,4 +1,7 @@
 [changelog]
+  [145-090323] - Fixed hotloading textures with non-power-of-2 dimensions.
+               - Game work[27].
+
   [144-080323] - Added 'sprite bundle' that can load multiple quads from an .obj and load them as separate sprites.
                - Game work[26].
 
