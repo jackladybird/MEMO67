@@ -1,4 +1,7 @@
 [changelog]
+  [147-110323] - Fixed sdf stuff. Added shader hotloading (hlsl). Working on adding deferred directional shadows.
+               - Game work[29].
+
   [146-100323] - Game work[28].
 
   [145-090323] - Fixed hotloading textures with non-power-of-2 dimensions.
