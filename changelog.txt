@@ -1,4 +1,6 @@
 [changelog]
+  [148-120323] - Game work[30].
+
   [147-110323] - Fixed sdf stuff. Added shader hotloading (hlsl). Working on adding deferred directional shadows.
                - Game work[29].
 
