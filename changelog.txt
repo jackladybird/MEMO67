@@ -1,5 +1,8 @@
 [changelog]
+  [150-140323] - Added shadow mapping for directional lights. Some changes to how depth textures are created and bound to framebuffers.
+
   [149-130323] - Game work[31].
+
   [148-120323] - Game work[30].
 
   [147-110323] - Fixed sdf stuff. Added shader hotloading (hlsl). Working on adding deferred directional shadows.
