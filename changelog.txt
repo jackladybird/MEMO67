@@ -1,4 +1,6 @@
 [changelog]
+  [152-160323] - Further cleanup and utility additions.
+
   [151-150323] - General cleanup.
 
   [150-140323] - Added shadow mapping for directional lights. Some changes to how depth textures are created and bound to framebuffers.
