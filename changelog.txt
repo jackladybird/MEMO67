@@ -1,4 +1,7 @@
 [changelog]
+  [153-170323] - Cleanup. Work on post pass setup. Directional shadows working
+                 with sprites.
+
   [152-160323] - Further cleanup and utility additions.
 
   [151-150323] - General cleanup.
