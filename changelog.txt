@@ -1,4 +1,6 @@
 [changelog]
+  [156-200323] - Aggressive file/folder restructuring.
+
   [155-190323] - Added framebuffer/texture/swapchain resizing.
 
   [154-180323] - Implemented fxaa paper. https://developer.download.nvidia.com/assets/gamedev/files/sdk/11/FXAA_WhitePaper.pdf
