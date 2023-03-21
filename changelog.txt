@@ -1,4 +1,6 @@
 [changelog]
+  [158-210323] - Added win32 min/max resizing, added on-focus callback (internal
+      and external). Bug fixes.
   [157-210323] - Separated graphics context from platform context.
 
   [156-200323] - Aggressive file/folder restructuring.
