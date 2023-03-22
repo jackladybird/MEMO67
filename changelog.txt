@@ -1,4 +1,6 @@
 [changelog]
+  [159-220323] - Improved htables, can now provide custom hash function. Started
+                work on component system.
   [158-210323] - Added win32 min/max resizing, added on-focus callback (internal
       and external). Bug fixes.
   [157-210323] - Separated graphics context from platform context.
