@@ -1,4 +1,6 @@
 [changelog]
+  [161-230323] - Further work to components. Htable improvements. (p.s uuid system
+      was added in last few commits).
   [160-230323] - Base of component system working.
 
   [159-220323] - Improved htables, can now provide custom hash function. Started
