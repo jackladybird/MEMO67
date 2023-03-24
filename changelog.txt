@@ -1,4 +1,8 @@
 [changelog]
+  [162-240323] - Added managed index darray. Added material component. Added
+    sprite batching for components. Added component debug print. Added
+    sprites->combined mesh.
+
   [161-230323] - Further work to components. Htable improvements. (p.s uuid system
       was added in last few commits).
   [160-230323] - Base of component system working.
