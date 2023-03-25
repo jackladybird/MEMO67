@@ -1,4 +1,7 @@
 [changelog]
+  [163-250323] - Replaced uuids with uids, previous implementation of uuids was
+    not to standard spec. Improved uid generation, improved random_u64 generation.
+
   [162-240323] - Added managed index darray. Added material component. Added
     sprite batching for components. Added component debug print. Added
     sprites->combined mesh.
