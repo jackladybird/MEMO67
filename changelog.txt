@@ -1,4 +1,7 @@
 [changelog]
+  [165-260323] - General cleanup. Console log colours. Improved header
+    separation.
+
   [164-250323] - Texture handles replaced with uids.
   [163-250323] - Replaced uuids with uids, previous implementation of uuids was
     not to standard spec. Improved uid generation, improved random_u64 generation.
