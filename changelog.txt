@@ -1,4 +1,7 @@
 [changelog]
+  [166-270323] - Added basic sprite packer. Testing pseudo 3d sprites. Fixed
+    some bugs with htable. Added alternate string hash (djb2).
+
   [165-260323] - General cleanup. Console log colours. Improved header
     separation.
 
