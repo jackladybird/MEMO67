@@ -1,4 +1,7 @@
 [changelog]
+  [167-280323] - Added temporary wip cgltf/png support. Models can now load with an
+    index buffer.
+
   [166-270323] - Added basic sprite packer. Testing pseudo 3d sprites. Fixed
     some bugs with htable. Added alternate string hash (djb2).
 
