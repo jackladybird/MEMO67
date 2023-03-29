@@ -1,4 +1,6 @@
 [changelog]
+  [168-290323] - Adding custom json parser.
+
   [167-280323] - Added temporary wip cgltf/png support. Models can now load with an
     index buffer.
 
