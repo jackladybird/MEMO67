@@ -1,4 +1,5 @@
 [changelog]
+  [170-300323] - Continued work on json parser.
   [169-300323] - Added basic string class.
 
   [168-290323] - Adding custom json parser.
