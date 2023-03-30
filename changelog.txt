@@ -1,4 +1,6 @@
 [changelog]
+  [169-300323] - Added basic string class.
+
   [168-290323] - Adding custom json parser.
 
   [167-280323] - Added temporary wip cgltf/png support. Models can now load with an
