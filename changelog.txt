@@ -1,4 +1,7 @@
 [changelog]
+  [172-010423] - Json parser seems to be working, will need to check edge cases
+    and track down any memory leaks.
+
   [171-310323] - Continued work on json parser.
 
   [170-300323] - Continued work on json parser.
