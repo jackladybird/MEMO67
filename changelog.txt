@@ -1,4 +1,6 @@
 [changelog]
+  [173-020423] - Improved json parser, and fixed some parsing edges cases.
+
   [172-010423] - Json parser seems to be working, will need to check edge cases
     and track down any memory leaks.
 
