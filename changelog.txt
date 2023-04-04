@@ -1,4 +1,9 @@
 [changelog]
+  [176-040423] - Adding gltf mesh loading abstraction, can load any .glb file's
+    mesh data.
+
+  [175-030423] - Added json_tree helper functions. Testing loading of gltf files.
+
   [175-030423] - Added json_tree helper functions. Testing loading of gltf files.
 
   [174-020423] - Added hash tables to json_tree for lookups.
