@@ -1,4 +1,8 @@
 [changelog]
+  [177-050423] - Added bounding box component. Frustum culling by bounding box.
+    working on configuring shadows. Improved gltf model loading, all submeshes
+    now handled.
+
   [176-040423] - Adding gltf mesh loading abstraction, can load any .glb file's
     mesh data.
 
