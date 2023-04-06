@@ -1,4 +1,6 @@
 [changelog]
+  [178-060423] - Added skyboxes.
+
   [177-050423] - Added bounding box component. Frustum culling by bounding box.
     working on configuring shadows. Improved gltf model loading, all submeshes
     now handled.
