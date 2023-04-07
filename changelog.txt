@@ -1,4 +1,7 @@
 [changelog]
+  [179-070423] - General cleanup, adding helper functions. Working on json_tree
+    cleanup/release. Work to gltf api loading.
+
   [178-060423] - Added skyboxes.
 
   [177-050423] - Added bounding box component. Frustum culling by bounding box.
