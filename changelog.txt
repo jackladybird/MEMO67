@@ -1,4 +1,7 @@
 [changelog]
+  [180-080423] - Fixed some issues with uid hash collisions. Added basic texture
+    loading from gltf files, still needs work.
+
   [179-070423] - General cleanup, adding helper functions. Working on json_tree
     cleanup/release. Work to gltf api loading.
 
