@@ -1,4 +1,8 @@
 [changelog]
+  [181-090423] - Fixed some bugs with point lights. Added mesh primitives. Added
+    gizmo render mesh type (added some gizmo mesh primitives). Added skybox
+    abstraction. General cleanup.
+
   [180-080423] - Fixed some issues with uid hash collisions. Added basic texture
     loading from gltf files, still needs work.
 
