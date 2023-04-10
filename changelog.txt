@@ -1,4 +1,8 @@
 [changelog]
+  [182-100423] - Started to add controller abstraction. Added mips (wip). Added
+  nearest neighbour resampling for manual mip generation (other interpolation
+  methods later).
+
   [181-090423] - Fixed some bugs with point lights. Added mesh primitives. Added
     gizmo render mesh type (added some gizmo mesh primitives). Added skybox
     abstraction. General cleanup.
