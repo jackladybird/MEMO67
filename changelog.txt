@@ -1,4 +1,6 @@
 [changelog]
+  [183-110423] - Added box blur and gaussian resize filters.
+
   [182-100423] - Started to add controller abstraction. Added mips (wip). Added
   nearest neighbour resampling for manual mip generation (other interpolation
   methods later).
