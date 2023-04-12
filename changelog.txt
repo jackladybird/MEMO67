@@ -1,4 +1,7 @@
 [changelog]
+  [184-120423] - Added fast mipmap generation with diamond pattern box filter.
+    Added mipmap loading if mips are present. Various cleanup and bugfixes.
+
   [183-110423] - Added box blur and gaussian resize filters.
 
   [182-100423] - Started to add controller abstraction. Added mips (wip). Added
