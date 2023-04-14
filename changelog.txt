@@ -1,4 +1,7 @@
 [changelog]
+  [186-140423] - Added support for loading .gltf files (json/bin/imgs), 
+   previously only supported .glb. Added some util functions.
+
   [185-130423] - Added .dds texture loading. Testing compression stuff. Added
    proper controller support for windows/xbox. Added keymap layers, can add
    multiple keymap layers and switch to change context/input actions, works for
