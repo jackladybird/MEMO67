@@ -1,4 +1,7 @@
 [changelog]
+  [187-150423] - Fixed bugs with gltf material loading, better handling of 
+   non-texture values (pbr/material values). 
+
   [186-140423] - Added support for loading .gltf files (json/bin/imgs), 
    previously only supported .glb. Added some util functions.
 
