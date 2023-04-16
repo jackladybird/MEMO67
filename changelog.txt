@@ -1,4 +1,8 @@
 [changelog]
+  [188-160423] - Fixed memory leak with _json_tree.release()_. Fixed bugs with
+   material loading. Better handling of freeing resources when loading gltf/glb
+   files. Improvements to json parser.
+
   [187-150423] - Fixed bugs with gltf material loading, better handling of 
    non-texture values (pbr/material values). 
 
