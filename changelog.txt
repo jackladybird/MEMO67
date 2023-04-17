@@ -1,4 +1,7 @@
 [changelog]
+  [189-170423] - Added custom binary mesh resource file format. Added 3d sprite
+   component.
+
   [188-160423] - Fixed memory leak with _json_tree.release()_. Fixed bugs with
    material loading. Better handling of freeing resources when loading gltf/glb
    files. Improvements to json parser.
