@@ -1,4 +1,8 @@
 [changelog]
+  [190-180423] - Added proper row packing support to sprite packer. Fixed
+   partial row writes on sprite packer. Fixed some bugs with bmp writing.
+   Continued work on 3d sprites.
+
   [189-170423] - Added custom binary mesh resource file format. Added 3d sprite
    component.
 
