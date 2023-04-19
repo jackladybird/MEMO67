@@ -1,4 +1,7 @@
 [changelog]
+  [191-190423] - Added 4/8/16 point cardinal support for packing/3d sprites.
+   Fixed some bugs with sprite packing artifacts.
+
   [190-180423] - Added proper row packing support to sprite packer. Fixed
    partial row writes on sprite packer. Fixed some bugs with bmp writing.
    Continued work on 3d sprites.
