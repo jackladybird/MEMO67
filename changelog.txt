@@ -1,4 +1,7 @@
 [changelog]
+  [192-200423] - Added camera skews for sprite 3d. Added forward vector to
+  decern cardinal direction. Created UI for blender tool scripts.
+
   [191-190423] - Added 4/8/16 point cardinal support for packing/3d sprites.
    Fixed some bugs with sprite packing artifacts.
 
