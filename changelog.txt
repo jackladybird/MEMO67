@@ -1,4 +1,10 @@
 [changelog]
+  [193-210423] - Fixed some bugs regarding flipped cardinal directions.
+  Optimised _update_cardinal()_. Added support for sprite_renderer component
+  shadows. Added proper support for packing sprites with variable
+  skews/frame_counts. Added support for loading fewer(4/8) cardinal directions 
+  than source sprites support.
+
   [192-200423] - Added camera skews for sprite 3d. Added forward vector to
   decern cardinal direction. Created UI for blender tool scripts.
 
