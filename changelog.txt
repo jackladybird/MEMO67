@@ -1,4 +1,8 @@
 [changelog]
+  [194-220423] - Added 3d camera movement support to 3d sprites, works better
+   than expected. Added variable skew counts. Tested animations without skew
+   angles (works well). Started on xaudio2.
+
   [193-210423] - Fixed some bugs regarding flipped cardinal directions.
   Optimised _update_cardinal()_. Added support for sprite_renderer component
   shadows. Added proper support for packing sprites with variable
