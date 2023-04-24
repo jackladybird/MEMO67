@@ -1,4 +1,8 @@
 [changelog]
+  [196-240423] - Improved sprite3d. Fixed sprite3d not maintaining its forward
+   cardinal direction when camera changes forward direction. Added 2x2 matrix.
+   Further testing, optimisations.
+
   [195-230423] - Added wireframe render pass for sprite/mesh. Optional (default)
    line_renderer as wireframe for sprites. Line_renderer now has each segment
    camera-facing. Fixed bug/lag with line_renderer. Removed mi_darray, replaced
