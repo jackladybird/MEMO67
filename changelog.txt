@@ -1,4 +1,10 @@
 [changelog]
+  [197-250423] - Added backend agnostic audio api. Fixed some bugs, and
+  optimised sprite3d. Added variadic overload for input key state. Added
+  on_lose_focus() callback. Audio api contains: 32 mono, 32 stereo voices, 2x music
+  voices (for fades later), volume controls, music stop/start, mute/unmute,
+  play_one_shot.
+
   [196-240423] - Improved sprite3d. Fixed sprite3d not maintaining its forward
    cardinal direction when camera changes forward direction. Added 2x2 matrix.
    Further testing, optimisations.
