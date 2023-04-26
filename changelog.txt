@@ -1,4 +1,8 @@
 [changelog]
+  [198-260423] - Added audio attenuation, spatial panning, audio source api.
+   Removed runtime .glb, only using internal resources files. Bug fixing, general
+   audio api work.
+
   [197-250423] - Added backend agnostic audio api. Fixed some bugs, and
   optimised sprite3d. Added variadic overload for input key state. Added
   on_lose_focus() callback. Audio api contains: 32 mono, 32 stereo voices, 2x music
