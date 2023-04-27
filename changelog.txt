@@ -1,4 +1,8 @@
 [changelog]
+  [199-270423] - Added a few simd maths functions. Fixed bug with sprite
+  shadows. Added render flags to mesh renderer and sprite renderer. Commit
+  before starting prototype.
+
   [198-260423] - Added audio attenuation, spatial panning, audio source api.
    Removed runtime .glb, only using internal resources files. Bug fixing, general
    audio api work.
