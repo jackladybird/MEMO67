@@ -1,4 +1,9 @@
 [changelog]
+  [200-280423] - Bug fixes and optimisations. Added helper functions for :
+  Converting RGB8, creating texture from colour, getting file extension, screen
+  to ray, random V3F. Added load_audio function (.wav only for nonw). Added
+  audio_loop function. Prototyping #0-0.
+
   [199-270423] - Added a few simd maths functions. Fixed bug with sprite
   shadows. Added render flags to mesh renderer and sprite renderer. Commit
   before starting prototype.
