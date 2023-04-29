@@ -1,4 +1,7 @@
 [changelog]
+  [201-290423] - Added basic physics. Added bsphere and bbox colliders and
+  intersection tests. Added sphere debug.
+
   [200-280423] - Bug fixes and optimisations. Added helper functions for :
   Converting RGB8, creating texture from colour, getting file extension, screen
   to ray, random V3F. Added load_audio function (.wav only for nonw). Added
