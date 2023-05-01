@@ -1,4 +1,8 @@
 [changelog]
+  [203-010523] - Finishing basic collisions/gojx. Working well, just need to cleanup
+  and better check objects moving at higher velocity, e.g some things are getting
+  stuck in the ground when landing.
+
   [202-300423] - Working on physics collisons.
 
   [201-290423] - Added basic physics. Added bsphere and bbox colliders and
