@@ -1,4 +1,6 @@
 [changelog]
+  [204-020523] - Bug fixing for collision/gojx.
+
   [203-010523] - Finishing basic collisions/gojx. Working well, just need to cleanup
   and better check objects moving at higher velocity, e.g some things are getting
   stuck in the ground when landing.
