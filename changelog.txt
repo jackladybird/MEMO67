@@ -1,4 +1,7 @@
 [changelog]
+  [205-030523] - More bug fixing for collision/gojx. Added fixed time step for
+   gojx updates. Collisions/gojx working as intended for now.
+
   [204-020523] - Bug fixing for collision/gojx.
 
   [203-010523] - Finishing basic collisions/gojx. Working well, just need to cleanup
