@@ -1,4 +1,8 @@
 [changelog]
+  [206-040523] - Added ui sprite (forward rendered). Added billboard shader. 
+  Added property component which is essentially a set a bitflags that can be 
+  used for custom properties.
+
   [205-030523] - More bug fixing for collision/gojx. Added fixed time step for
    gojx updates. Collisions/gojx working as intended for now.
 
