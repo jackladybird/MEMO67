@@ -1,4 +1,7 @@
 [changelog]
+  [207-050523] - Added forward outline shader. Added feature to ensure same
+  textures aren't reloaded. Working on selection.
+
   [206-040523] - Added ui sprite (forward rendered). Added billboard shader. 
   Added property component which is essentially a set a bitflags that can be 
   used for custom properties.
