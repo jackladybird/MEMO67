@@ -1,4 +1,9 @@
 [changelog]
+  [208-060523] - Implemented staging/map for id picking correctly, previously
+  wasn't accounting for performance hit from synchronising cpu/gpu. Added
+  precise sleep function, as well as cleaned up time functions. Added accurate
+  fps limiting.
+
   [207-050523] - Added forward outline shader. Added feature to ensure same
   textures aren't reloaded. Working on selection.
 
