@@ -1,4 +1,7 @@
 [changelog]
+  [209-070523] - Added csv loading. Added id to batching. Bug fixing and
+   cleanup.
+
   [208-060523] - Implemented staging/map for id picking correctly, previously
   wasn't accounting for performance hit from synchronising cpu/gpu. Added
   precise sleep function, as well as cleaned up time functions. Added accurate
