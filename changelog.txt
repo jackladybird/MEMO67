@@ -1,4 +1,7 @@
 [changelog]
+  [210-080523] - Added selectable component. Fixed shadow offset bug. Fixed
+   asserts printing msgs regardless of fail/success.
+
   [209-070523] - Added csv loading. Added id to batching. Bug fixing and
    cleanup.
 
