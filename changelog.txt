@@ -1,4 +1,6 @@
 [changelog]
+  [211-090523] - General cleanup. Prototyping #0-1.
+
   [210-080523] - Added selectable component. Fixed shadow offset bug. Fixed
    asserts printing msgs regardless of fail/success.
 
