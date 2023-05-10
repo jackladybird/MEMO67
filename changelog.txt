@@ -1,4 +1,6 @@
 [changelog]
+  [212-100523] - Added caching of meshes for mesh component. Prototyping #0-2.
+
   [211-090523] - General cleanup. Prototyping #0-1.
 
   [210-080523] - Added selectable component. Fixed shadow offset bug. Fixed
