@@ -1,4 +1,9 @@
 [changelog]
+  [213-110523] - Added function to render transparent sprites after other
+  sprites, this is so I can use a different shader and not write to gbuf_wpos so
+  shadows aren't stopped at the transparent sprite. Not ideal, replace it later.
+  Added better encompass frustum function. Prototyping #0-3.
+
   [212-100523] - Added caching of meshes for mesh component. Prototyping #0-2.
 
   [211-090523] - General cleanup. Prototyping #0-1.
