@@ -1,4 +1,7 @@
 [changelog]
+  [214-120523] - Fixed some minor memory leaks. Added hotloading for tiles.
+  Bug fixes for gstring. Added wireframe cube/sphere debug. Prototyping #0-4.
+
   [213-110523] - Added function to render transparent sprites after other
   sprites, this is so I can use a different shader and not write to gbuf_wpos so
   shadows aren't stopped at the transparent sprite. Not ideal, replace it later.
