@@ -1,4 +1,6 @@
 [changelog]
+  [215-130523] - Bug fixes. Started a refactor on shader stuff.
+
   [214-120523] - Fixed some minor memory leaks. Added hotloading for tiles.
   Bug fixes for gstring. Added wireframe cube/sphere debug. Prototyping #0-4.
 
