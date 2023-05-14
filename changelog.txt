@@ -1,4 +1,8 @@
 [changelog]
+  [216-140523] - Added custom shader pipeline. Added custom pass framebuffer
+  injection for additional render passes outside of core render passes. Various
+  bug fixes and cleanup.
+
   [215-130523] - Bug fixes. Started a refactor on shader stuff.
 
   [214-120523] - Fixed some minor memory leaks. Added hotloading for tiles.
