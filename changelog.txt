@@ -1,4 +1,7 @@
 [changelog]
+  [217-150523] - Added a few helper functions. Further work on custom pass
+  injection. Prototyping #0-4.
+
   [216-140523] - Added custom shader pipeline. Added custom pass framebuffer
   injection for additional render passes outside of core render passes. Various
   bug fixes and cleanup.
