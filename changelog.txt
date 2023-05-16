@@ -1,4 +1,8 @@
 [changelog]
+  [218-160523] - Added mesh_renderer generic instancing, needs cleanup but
+  working well. Optimised constant buffer update frequency. General
+  improvements and bug fixes.
+
   [217-150523] - Added a few helper functions. Further work on custom pass
   injection. Prototyping #0-4.
 
