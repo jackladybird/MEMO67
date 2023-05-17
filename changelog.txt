@@ -1,4 +1,7 @@
 [changelog]
+  [219-170523] - Cleaned up mesh instancine. Added various utility functions.
+  Bug fixes. Added framebuffer resizing for injected passes.
+
   [218-160523] - Added mesh_renderer generic instancing, needs cleanup but
   working well. Optimised constant buffer update frequency. General
   improvements and bug fixes.
