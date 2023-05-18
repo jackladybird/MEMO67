@@ -1,4 +1,8 @@
 [changelog]
+  [220-180523] - Added separate input layout shaders for directx. Removed
+  shader_id from render_primitives, they only exist in standalone shaders now.
+  Improvements to sprite batching and mesh instancing.
+
   [219-170523] - Cleaned up mesh instancine. Added various utility functions.
   Bug fixes. Added framebuffer resizing for injected passes.
 
