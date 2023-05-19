@@ -1,4 +1,8 @@
 [changelog]
+  [221-190523] - Fixed issue with first mesh instance not being drawn. Added
+  alpha_clip blend type. Other bug fixes and cleanup. Should be back on track
+  for prototyping.
+
   [220-180523] - Added separate input layout shaders for directx. Removed
   shader_id from render_primitives, they only exist in standalone shaders now.
   Improvements to sprite batching and mesh instancing.
