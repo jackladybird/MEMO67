@@ -1,4 +1,6 @@
 [changelog]
+  [222-200523] - Audio bug fixes. Added width param to line instances.
+
   [221-190523] - Fixed issue with first mesh instance not being drawn. Added
   alpha_clip blend type. Other bug fixes and cleanup. Should be back on track
   for prototyping.
