@@ -1,4 +1,7 @@
 [changelog]
+  [223-210523] - Added audio loop stop. Added projectile motion. Replaced _force
+  with _velocity, and added function add_force.
+
   [222-200523] - Audio bug fixes. Added width param to line instances.
 
   [221-190523] - Fixed issue with first mesh instance not being drawn. Added
