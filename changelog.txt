@@ -1,4 +1,6 @@
 [changelog]
+  [224-220523] - Improvements to text. Prototyping #0-5.
+
   [223-210523] - Added audio loop stop. Added projectile motion. Replaced _force
   with _velocity, and added function add_force.
 
