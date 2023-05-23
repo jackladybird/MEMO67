@@ -1,4 +1,7 @@
 [changelog]
+  [225-230523] - Added collision layer matrix, separated collision layer and
+  collision trigger layer.  Prototyping #0-6.
+
   [224-220523] - Improvements to text. Prototyping #0-5.
 
   [223-210523] - Added audio loop stop. Added projectile motion. Replaced _force
