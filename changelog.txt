@@ -1,4 +1,8 @@
 [changelog]
+  [226-240523] - Added quadtree for colliders (no Y component, for now).
+  Dynamic and static colliders are now stored on different tables, done for
+  performance, couple of bugs to hammer out. Prototyping #0-7.
+
   [225-230523] - Added collision layer matrix, separated collision layer and
   collision trigger layer.  Prototyping #0-6.
 
