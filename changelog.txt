@@ -1,4 +1,6 @@
 [changelog]
+  [227-250523] - Prototyping #0-8.
+
   [226-240523] - Added quadtree for colliders (no Y component, for now).
   Dynamic and static colliders are now stored on different tables, done for
   performance, couple of bugs to hammer out. Prototyping #0-7.
