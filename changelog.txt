@@ -1,4 +1,6 @@
 [changelog]
+  [228-260523] - Prototyping #0-9.
+
   [227-250523] - Prototyping #0-8.
 
   [226-240523] - Added quadtree for colliders (no Y component, for now).
