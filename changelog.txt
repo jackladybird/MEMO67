@@ -1,4 +1,7 @@
 [changelog]
+  [229-270523] - Added generic outline shader that works for sprite, and mesh
+  renderers. Mesh_renderer now renders select_id.
+
   [228-260523] - Prototyping #0-9.
 
   [227-250523] - Prototyping #0-8.
