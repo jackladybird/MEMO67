@@ -1,4 +1,6 @@
 [changelog]
+  [230-280523] - Bug fixes.
+
   [229-270523] - Added generic outline shader that works for sprite, and mesh
   renderers. Mesh_renderer now renders select_id.
 
