@@ -1,4 +1,7 @@
 [changelog]
+  [231-290523] - Get neighbouring colliders now returns with the uids sorted by
+  distance to source. Prototyping #0-10.
+  
   [230-280523] - Bug fixes.
 
   [229-270523] - Added generic outline shader that works for sprite, and mesh
