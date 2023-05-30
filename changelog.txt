@@ -1,4 +1,7 @@
 [changelog]
+  [232-300523] - Meshes can now be separately rendered downscaled. Prototyping
+  #0-11.
+
   [231-290523] - Get neighbouring colliders now returns with the uids sorted by
   distance to source. Prototyping #0-10.
   
