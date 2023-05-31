@@ -1,4 +1,6 @@
 [changelog]
+  [233-310523] - Added custom gbuffer setup. Bug fixes and cleanup.
+
   [232-300523] - Meshes can now be separately rendered downscaled. Prototyping
   #0-11.
 
