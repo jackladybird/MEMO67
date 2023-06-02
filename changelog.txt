@@ -1,4 +1,7 @@
 [changelog]
+  [235-020623] - Testing some graphics styles. Now sending model matrix as
+  instance model data. Bug fixes and improvements.
+
   [234-010623] - Fixed shadows for new buffer setup. Working on render target
   setups. Bug fixes and cleanup.
 
