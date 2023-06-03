@@ -1,4 +1,8 @@
 [changelog]
+  [236-030623] - Fixed bug with instancing. Split first and second pass lighting
+  framebuffers (b/c they are not guaranteed to be same dimensions). Added fixed
+  8 skew sprite packer. Bug fixes.
+
   [235-020623] - Testing some graphics styles. Now sending model matrix as
   instance model data. Bug fixes and improvements.
 
