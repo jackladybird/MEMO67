@@ -1,4 +1,9 @@
 [changelog]
+  [237-040623] - Cleaned up sprite 3d, skews and cardinals are more robust in
+  regards to variabililty now. Fixed compiler warnings. Started on adding
+  resource packing for single file resource files. Added zlib compression
+  (wrapper around minimal third-party). Goji LOC is around 18k now (excl. zlib).
+
   [236-030623] - Fixed bug with instancing. Split first and second pass lighting
   framebuffers (b/c they are not guaranteed to be same dimensions). Added fixed
   8 skew sprite packer. Bug fixes.
