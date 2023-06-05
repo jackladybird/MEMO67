@@ -1,4 +1,7 @@
 [changelog]
+  [238-050623] - Working on resource file packing/loading, as well as general
+  resource database/bundle system.
+
   [237-040623] - Cleaned up sprite 3d, skews and cardinals are more robust in
   regards to variabililty now. Fixed compiler warnings. Started on adding
   resource packing for single file resource files. Added zlib compression
