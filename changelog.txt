@@ -1,4 +1,7 @@
 [changelog]
+  [239-060623] - Further work on resources/files etc. Drastic changes, almost
+  done.
+
   [238-050623] - Working on resource file packing/loading, as well as general
   resource database/bundle system.
 
