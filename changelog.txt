@@ -1,4 +1,7 @@
 [changelog]
+  [241-070623] - Resource packing/loading working for audio/meshes/textures now.
+   Going to clean up redundancies.
+
   [240-070623] - Version 0 of resource file packing working for textures. DDS
   files are now packed to minimal representation in bundle (i.e discards unused
   data blocks beyond mips/pixels/header). Fixed bug with gstring/char* hashing.
