@@ -1,4 +1,8 @@
 [changelog]
+  [240-070623] - Version 0 of resource file packing working for textures. DDS
+  files are now packed to minimal representation in bundle (i.e discards unused
+  data blocks beyond mips/pixels/header). Fixed bug with gstring/char* hashing.
+
   [239-060623] - Further work on resources/files etc. Drastic changes, almost
   done.
 
