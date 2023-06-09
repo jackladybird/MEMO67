@@ -1,4 +1,6 @@
 [changelog]
+  [243-090623] - Prototyping #0-12.
+
   [242-080623] - Clean up, mild refactors.
 
   [241-070623] - Resource packing/loading working for audio/meshes/textures now.
