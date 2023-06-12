@@ -1,4 +1,6 @@
 [changelog]
+  [246-120623] - Prototyping #0-15.
+
   [245-110623] - Prototyping #0-14.
 
   [244-100623] - Prototyping #0-13.
