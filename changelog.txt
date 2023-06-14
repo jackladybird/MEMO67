@@ -1,4 +1,6 @@
 [changelog]
+  [248-140623] - Bug fixes.
+
   [247-130623] - Prototyping #0-16.
 
   [246-120623] - Prototyping #0-15.
