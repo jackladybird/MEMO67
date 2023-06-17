@@ -1,4 +1,8 @@
 [changelog]
+  [251-170623] - Added 'staging' pipeline for mesh renderers and sprite
+  renderes, so that untracked renderers can be inserted into the render
+  pipeline. Not sure if this route is ideal, may be replaced.
+
   [250-160623] - Cleanup.
 
   [249-150623] - Bug fixes.
