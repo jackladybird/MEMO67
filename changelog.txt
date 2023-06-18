@@ -1,4 +1,7 @@
 [changelog]
+  [252-180623] - Bug fixes, think there is a bug with untracking, some uid keys
+  are colliding for some reason.
+
   [251-170623] - Added 'staging' pipeline for mesh renderers and sprite
   renderes, so that untracked renderers can be inserted into the render
   pipeline. Not sure if this route is ideal, may be replaced.
