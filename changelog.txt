@@ -1,4 +1,6 @@
 [changelog]
+  [260-260623] - Prototyping #0-22.
+
   [259-250623] - Cleanup.
 
   [258-240623] - Prototyping #0-21.
