@@ -1,4 +1,6 @@
 [changelog]
+  [262-280623] - Improvements to selection/outlines. Various other improvements.
+
   [261-270623] - Prototyping #0-23.
 
   [260-260623] - Prototyping #0-22.
