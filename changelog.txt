@@ -1,4 +1,5 @@
 [changelog]
+  [264-290623] - Prototyping #0-24.
   [263-290623] - Fixed selection id artifacts.
 
   [262-280623] - Improvements to selection/outlines. Various other improvements.
