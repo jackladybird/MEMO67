@@ -1,4 +1,6 @@
 [changelog]
+  [265-300623] - Prototyping #0-25.
+
   [264-290623] - Prototyping #0-24.
   [263-290623] - Fixed selection id artifacts.
 
