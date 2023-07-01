@@ -1,4 +1,5 @@
 [changelog]
+  [267-010723] - Prototyping #0-26.
   [266-010723] - Added func pointer to selectable, added polling for selectable
   mouse over to call func pointer. Improvements to sprite_ui.
 
