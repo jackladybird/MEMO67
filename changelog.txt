@@ -1,4 +1,9 @@
 [changelog]
+  [269-030723] - Various bug fixes and improvements. Finally added looping for
+  htable, as well as other htable improvements. htable is ~150-200% faster for
+  looping than std::unordered_map, and ~300-400% faster for lookup. Tested with
+  100,000,000 entries, K = U32, V = U32.
+
   [268-020723] - Prototyping #0-27.
 
   [267-010723] - Prototyping #0-26.
