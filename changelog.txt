@@ -1,4 +1,7 @@
 [changelog]
+  [270-040723] - Improvements to htable, fixed a nasty bug (not sure how it
+  didn't produce any noticeable errors). Htable size is now always prime.
+
   [269-030723] - Various bug fixes and improvements. Finally added looping for
   htable, as well as other htable improvements. htable is ~150-200% faster for
   looping than std::unordered_map, and ~300-400% faster for lookup. Tested with
