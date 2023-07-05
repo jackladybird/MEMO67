@@ -1,4 +1,6 @@
 [changelog]
+  [271-050723] - Bug fixes and improvements. Prototyping #0-28.
+
   [270-040723] - Improvements to htable, fixed a nasty bug (not sure how it
   didn't produce any noticeable errors). Htable size is now always prime.
 
