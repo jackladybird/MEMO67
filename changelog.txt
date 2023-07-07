@@ -1,4 +1,6 @@
 [changelog]
+  [273-070723] - Bug fixes to components. Prototyping #0-30.
+
   [272-060723] - Bug fixes and improvements. Lots of improvements to
   controller/kb input handling. Prototyping #0-29.
 
