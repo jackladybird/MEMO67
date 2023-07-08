@@ -1,4 +1,8 @@
 [changelog]
+  [274-080723] - Added hardware cursor changing. Some changes to components,
+  materials can be added externally so that entities can share materials easily.
+  Prototyping #0-31.
+
   [273-070723] - Bug fixes to components. Prototyping #0-30.
 
   [272-060723] - Bug fixes and improvements. Lots of improvements to
