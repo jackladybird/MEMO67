@@ -1,4 +1,8 @@
 [changelog]
+  [275-090723] - Added support for variable cursor sizes. Bug fixes and
+  improvements. Mesh instances now properly support atlas frames (previously all
+  frames were the same).
+
   [274-080723] - Added hardware cursor changing. Some changes to components,
   materials can be added externally so that entities can share materials easily.
   Prototyping #0-31.
