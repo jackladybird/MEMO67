@@ -1,4 +1,6 @@
 [changelog]
+  [277-100723] - Sprite renderer and mesh renderer can now stage draw calls with
+  unique transforms. Prototyping #0-33.
   [276-100723] - Added resource_to_shader support, some changes to shader,
   primarily, removed storing htable with shader file name lookup, projects should
   manage shader ids along with relevant bundle stuff. Prototyping #0-32.
