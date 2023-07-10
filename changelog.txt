@@ -1,4 +1,8 @@
 [changelog]
+  [276-100723] - Added resource_to_shader support, some changes to shader,
+  primarily, removed storing htable with shader file name lookup, projects should
+  manage shader ids along with relevant bundle stuff. Prototyping #0-32.
+  
   [275-090723] - Added support for variable cursor sizes. Bug fixes and
   improvements. Mesh instances now properly support atlas frames (previously all
   frames were the same).
