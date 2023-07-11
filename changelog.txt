@@ -1,4 +1,5 @@
 [changelog]
+  [279-110723] - Prototyping #0-35.
   [278-110723] - Minor changes to sprite/mesh renderer staging. Prototyping #0-34.
 
   [277-100723] - Sprite renderer and mesh renderer can now stage draw calls with
