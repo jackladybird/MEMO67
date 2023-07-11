@@ -1,4 +1,6 @@
 [changelog]
+  [278-110723] - Minor changes to sprite/mesh renderer staging. Prototyping #0-34.
+
   [277-100723] - Sprite renderer and mesh renderer can now stage draw calls with
   unique transforms. Prototyping #0-33.
   [276-100723] - Added resource_to_shader support, some changes to shader,
