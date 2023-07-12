@@ -1,4 +1,8 @@
 [changelog]
+  [280-120723] - Added separate ui render framebuffer. UI should be forward
+  rendered by default. Added some additional functions for rendering ui pass
+  etc. Added sprite_ui placement origins.
+
   [279-110723] - Prototyping #0-35.
   [278-110723] - Minor changes to sprite/mesh renderer staging. Prototyping #0-34.
 
