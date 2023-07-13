@@ -1,7 +1,12 @@
 [changelog]
+  [281-130723] - Added a basic loading screen with a thread dispatch api which
+  force draws specified loading screen sprite_uis whilst waiting for the thread
+  to finish, don't really want to split the engine to a render thread/main 
+  thread architecture, so this is a minimal alternative to keep things simple for now.
+
   [280-120723] - Added separate ui render framebuffer. UI should be forward
   rendered by default. Added some additional functions for rendering ui pass
-  etc. Added sprite_ui placement origins.
+  etc. Added sprite_ui placement origins. Prototyping #0-36.
 
   [279-110723] - Prototyping #0-35.
   [278-110723] - Minor changes to sprite/mesh renderer staging. Prototyping #0-34.
