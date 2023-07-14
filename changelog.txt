@@ -1,4 +1,6 @@
 [changelog]
+  [282-140723] - Bug fixes and improvements. Prototyping #0-37.
+  
   [281-130723] - Added a basic loading screen with a thread dispatch api which
   force draws specified loading screen sprite_uis whilst waiting for the thread
   to finish, don't really want to split the engine to a render thread/main 
