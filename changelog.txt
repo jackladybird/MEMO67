@@ -1,4 +1,7 @@
 [changelog]
+  [283-150723] - Added sprite_ui order sorting, bug fixes and improvements. 
+  Prototyping #0-38.
+
   [282-140723] - Bug fixes and improvements. Prototyping #0-37.
   
   [281-130723] - Added a basic loading screen with a thread dispatch api which
