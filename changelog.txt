@@ -1,4 +1,6 @@
 [changelog]
+  [284-160723] - Prototyping #0-39.
+
   [283-150723] - Added sprite_ui order sorting, bug fixes and improvements. 
   Prototyping #0-38.
 
