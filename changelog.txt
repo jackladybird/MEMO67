@@ -1,4 +1,6 @@
 [changelog]
+  [285-170723] - Added hover callback func to selectable components. Prototyping #0-40.
+
   [284-160723] - Prototyping #0-39.
 
   [283-150723] - Added sprite_ui order sorting, bug fixes and improvements. 
