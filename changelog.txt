@@ -1,4 +1,6 @@
 [changelog]
+  [287-190723] - Prototyping #0-42.
+
   [286-180723] - Prototyping #0-41.
 
   [285-170723] - Added hover callback func to selectable components. Prototyping #0-40.
