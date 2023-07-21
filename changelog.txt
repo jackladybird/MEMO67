@@ -1,4 +1,6 @@
 [changelog]
+  [289-210723] - Prototyping #0-44.
+
   [288-200723] - Minor changes to how colliders are stored, colliders can be
   independently created (i.e, not bound to uid). Prototyping #0-43.
 
