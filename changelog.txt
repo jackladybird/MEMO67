@@ -1,5 +1,8 @@
 [changelog]
+  [291-230723] - Added combine gbuf passes prior to composite pass.
+
   [290-220723] - Added shared functions to shaders. Prototyping #0-45.
+
   [289-210723] - Prototyping #0-44.
 
   [288-200723] - Minor changes to how colliders are stored, colliders can be
