@@ -1,4 +1,7 @@
 [changelog]
+  [292-240723] - Further changes to combine pass stuff. Fixed encompass frustum
+  matrix function for shadow mapping.
+
   [291-230723] - Added combine gbuf passes prior to composite pass.
 
   [290-220723] - Added shared functions to shaders. Prototyping #0-45.
