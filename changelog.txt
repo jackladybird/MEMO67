@@ -1,4 +1,6 @@
 [changelog]
+  [293-250723] - Further changes to shadowmapping and encompass frustum stuff.
+
   [292-240723] - Further changes to combine pass stuff. Fixed encompass frustum
   matrix function for shadow mapping.
 
