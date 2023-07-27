@@ -1,4 +1,8 @@
 [changelog]
+  [295-270723] - Added shared shader files (for util functions etc). Started
+  work on changing text from a standalone system to a regular component. Prototyping
+  #0-46.
+
   [294-260723] - Added composite input texture viewer. Other improvements/cleanup/bug fixes.
 
   [293-250723] - Further changes to shadowmapping and encompass frustum stuff.
