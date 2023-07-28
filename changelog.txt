@@ -1,4 +1,6 @@
 [changelog]
+  [296-280723] - Work on text component, almost done.
+
   [295-270723] - Added shared shader files (for util functions etc). Started
   work on changing text from a standalone system to a regular component. Prototyping
   #0-46.
