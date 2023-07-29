@@ -1,4 +1,6 @@
 [changelog]
+  [297-290723] - Finished text component stuff.
+
   [296-280723] - Work on text component, almost done.
 
   [295-270723] - Added shared shader files (for util functions etc). Started
