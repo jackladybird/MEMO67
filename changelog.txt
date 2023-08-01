@@ -1,4 +1,6 @@
 [changelog]
+  [300-010823] - Prototyping #0-48.
+
   [299-310723] - Bug fixes and improvements. Prototyping #0-47.
 
   [298-300723] - Bug fixes and improvements.
