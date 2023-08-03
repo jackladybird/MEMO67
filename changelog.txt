@@ -1,4 +1,6 @@
 [changelog]
+  [302-030823] - Prototyping #0-50.
+
   [301-020823] - Prototyping #0-49.
 
   [300-010823] - Prototyping #0-48.
