@@ -1,4 +1,5 @@
 [changelog]
+  [304-040823] - Removed mesh/sprite downres stuff. Work on transparency pass.
   [303-040823] - Work on transparency stuff. Commit before removing mesh/sprite
   downres framebuffers.
 
