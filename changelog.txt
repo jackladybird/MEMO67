@@ -1,4 +1,7 @@
 [changelog]
+  [303-040823] - Work on transparency stuff. Commit before removing mesh/sprite
+  downres framebuffers.
+
   [302-030823] - Prototyping #0-50.
 
   [301-020823] - Prototyping #0-49.
