@@ -1,4 +1,8 @@
 [changelog]
+  [305-050823] - Further work to transparency pass, namely improvements to
+  lighting pass after transparent pass. Added transparency shader key.
+  Prototyping #0-51.
+
   [304-040823] - Removed mesh/sprite downres stuff. Work on transparency pass.
   [303-040823] - Work on transparency stuff. Commit before removing mesh/sprite
   downres framebuffers.
