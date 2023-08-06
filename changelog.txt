@@ -1,4 +1,6 @@
 [changelog]
+  [306-060823] - Commit after repo changes.
+
   [305-050823] - Further work to transparency pass, namely improvements to
   lighting pass after transparent pass. Added transparency shader key.
   Prototyping #0-51.
