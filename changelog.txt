@@ -1,4 +1,5 @@
 [changelog]
+  [310-080823] - Engine renaming.
   [309-080823] - Commit before rename.
   [308-080823] - Correcting commits after repo changes 0.
 
@@ -174,7 +175,7 @@
   [237-040623] - Cleaned up sprite 3d, skews and cardinals are more robust in
   regards to variabililty now. Fixed compiler warnings. Started on adding
   resource packing for single file resource files. Added zlib compression
-  (wrapper around minimal third-party). Goji LOC is around 18k now (excl. zlib).
+  (wrapper around minimal third-party). Yak LOC is around 18k now (excl. zlib).
 
   [236-030623] - Fixed bug with instancing. Split first and second pass lighting
   framebuffers (b/c they are not guaranteed to be same dimensions). Added fixed
@@ -586,7 +587,7 @@
                - Some minor changes to cameras and how frustums are stored.
                - Re-enabled sprite batcher with new depth sorting stuff, it's in a basic working mode, needs to be bullet-proofed.
                - Restructured the line renderer, no longer has a 'line_renderer' object, just basic functions. The new model is similar to 
-               the primitive/collider/goji_handle.
+               the primitive/collider/yak_handle.
 
   [097-300123] - Added on_collide functions for colliders.
                - Removed 'rect_2d', now there's just bbox and a separate collider struct.
@@ -742,7 +743,7 @@ GitHub initial commit started at svn version [050], 010123.
     -Rendered in two passes, first directional lights, then point lights.
 
   -Deferred rendering.
-    -When deferred rendering is enabled, Goji's internal loop binds a deferred
+    -When deferred rendering is enabled, Yak's internal loop binds a deferred
     framebuffer, subsequent draw calls are then rendered to the gbuffer/s.
     Lighting is then rendered with the gbuffer/s as input (as well as lighting
     constant buffers) before finally rendering the frame to a quad.
@@ -752,7 +753,7 @@ GitHub initial commit started at svn version [050], 010123.
       the file separates the two shader languages, as well as vertex and pixel
       shaders with #defines.
     -Constant buffers.
-    -Each 'default' (i.e part of Goji, not a custom added shader) shader corresponds to a enum value.
+    -Each 'default' (i.e part of Yak, not a custom added shader) shader corresponds to a enum value.
     -'Default' shaders include gbuffer variants, phong model, gouraud model, sprite, generic model, line, etc.
 
   -Sprite rendering with animation.
@@ -776,5 +777,5 @@ GitHub initial commit started at svn version [050], 010123.
 Official start date 021122. - Project started 260922 with svn commit [001],
 however, real work started on 021122 with svn commit [021].
 
---gojiblue
+--yakblue
 
