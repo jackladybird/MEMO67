@@ -1,4 +1,5 @@
 [changelog]
+  [309-080823] - Commit before rename.
   [308-080823] - Correcting commits after repo changes 0.
 
   [307-070823] - Commit after further repo changes.
