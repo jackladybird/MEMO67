@@ -1,4 +1,6 @@
 [changelog]
+  [308-080823] - Correcting commits after repo changes 0.
+
   [307-070823] - Commit after further repo changes.
 
   [306-060823] - Commit after repo changes.
