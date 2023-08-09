@@ -1,4 +1,6 @@
 [changelog]
+  [311-090823] - Prototyping #0-52.
+
   [310-080823] - Engine renaming.
   [309-080823] - Commit before rename.
   [308-080823] - Correcting commits after repo changes 0.
@@ -164,7 +166,7 @@
 
   [240-070623] - Version 0 of resource file packing working for textures. DDS
   files are now packed to minimal representation in bundle (i.e discards unused
-  data blocks beyond mips/pixels/header). Fixed bug with gstring/char* hashing.
+  data blocks beyond mips/pixels/header). Fixed bug with yak_string/char* hashing.
 
   [239-060623] - Further work on resources/files etc. Drastic changes, almost
   done.
@@ -243,7 +245,7 @@
   [215-130523] - Bug fixes. Started a refactor on shader stuff.
 
   [214-120523] - Fixed some minor memory leaks. Added hotloading for tiles.
-  Bug fixes for gstring. Added wireframe cube/sphere debug. Prototyping #0-4.
+  Bug fixes for yak_string. Added wireframe cube/sphere debug. Prototyping #0-4.
 
   [213-110523] - Added function to render transparent sprites after other
   sprites, this is so I can use a different shader and not write to gbuf_wpos so
@@ -272,12 +274,12 @@
   Added property component which is essentially a set a bitflags that can be 
   used for custom properties.
 
-  [205-030523] - More bug fixing for collision/gojx. Added fixed time step for
-   gojx updates. Collisions/gojx working as intended for now.
+  [205-030523] - More bug fixing for collision/yakx. Added fixed time step for
+   yakx updates. Collisions/yakx working as intended for now.
 
-  [204-020523] - Bug fixing for collision/gojx.
+  [204-020523] - Bug fixing for collision/yakx.
 
-  [203-010523] - Finishing basic collisions/gojx. Working well, just need to cleanup
+  [203-010523] - Finishing basic collisions/yakx. Working well, just need to cleanup
   and better check objects moving at higher velocity, e.g some things are getting
   stuck in the ground when landing.
 
