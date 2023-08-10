@@ -1,4 +1,6 @@
 [changelog]
+  [312-100823] - Prototyping #0-53.
+
   [311-090823] - Prototyping #0-52.
 
   [310-080823] - Engine renaming.
