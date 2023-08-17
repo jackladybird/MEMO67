@@ -1,4 +1,6 @@
 [changelog]
+  [319-170823] - Prototyping #0-60.
+
   [318-160823] - Prototyping #0-59.
 
   [317-150823] - Prototyping #0-58.
