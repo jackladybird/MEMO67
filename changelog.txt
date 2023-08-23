@@ -1,4 +1,6 @@
 [changelog]
+  [325-230823] - Prototyping #0-64.
+
   [324-220823] - Prototyping #0-63.
 
   [323-210823] - Cleanup.
