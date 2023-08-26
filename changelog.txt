@@ -1,4 +1,6 @@
 [changelog]
+  [328-260823] - Prototyping #0-67.
+
   [327-250823] - Prototyping #0-66.
 
   [326-240823] - Prototyping #0-65.
