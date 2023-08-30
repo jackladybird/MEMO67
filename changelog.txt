@@ -1,4 +1,6 @@
 [changelog]
+  [332-300823] - Prototyping #0-71.
+
   [331-290823] - Prototyping #0-70.
 
   [330-280823] - Prototyping #0-69.
