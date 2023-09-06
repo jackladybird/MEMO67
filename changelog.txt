@@ -1,4 +1,6 @@
 [changelog]
+  [339-060923] - Prototyping #0-77.
+
   [338-050923] - Prototyping #0-76.
 
   [337-040923] - Prototyping #0-75.
