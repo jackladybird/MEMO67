@@ -1,4 +1,6 @@
 [changelog]
+  [343-100923] - Prototyping #0-81.
+
   [342-090923] - Prototyping #0-80.
 
   [341-080923] - Prototyping #0-79.
