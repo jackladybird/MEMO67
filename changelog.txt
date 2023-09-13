@@ -1,4 +1,6 @@
 [changelog]
+  [346-130923] - Prototyping #0-84.
+
   [345-120923] - Prototyping #0-83.
 
   [344-110923] - Prototyping #0-82.
