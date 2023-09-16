@@ -1,5 +1,9 @@
 [changelog]
-  [348-150923] - Prototyping #0-86.
+  [349-160923] - Continued work on bundle/resource/file handling restructure.
+
+  [348-150923] - Working towards restructuring bundles and resource files so
+  that release build will use bundled/compressed data, and debug will use
+  individual files to re-enable hotload/live editing.
 
   [347-140923] - Prototyping #0-85.
 
