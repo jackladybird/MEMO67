@@ -1,4 +1,6 @@
 [changelog]
+  [350-170923] - Continued work on bundle/resource/file handling restructure.
+
   [349-160923] - Continued work on bundle/resource/file handling restructure.
 
   [348-150923] - Working towards restructuring bundles and resource files so
