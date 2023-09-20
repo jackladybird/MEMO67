@@ -1,4 +1,6 @@
 [changelog]
+  [353-200923] - More work on resource restructuring.
+
   [352-190923] - Continued work on bundle/resource/file handling restructure,
   resouce bundles are now compressed on a per resource basis, not via
   compressing the entire bundle data.
