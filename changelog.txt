@@ -1,4 +1,6 @@
 [changelog]
+  [354-210923] - More work on resource restructuring.
+
   [353-200923] - More work on resource restructuring.
 
   [352-190923] - Continued work on bundle/resource/file handling restructure,
