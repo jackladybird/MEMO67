@@ -1,4 +1,7 @@
 [changelog]
+  [357-230923] - More work on resource restructuring, adding some iterator stuff
+  to data structures.
+
   [356-220923] - More work on resource restructuring.
 
   [355-210923] - More work on resource/file/resource cached hash file etc.
