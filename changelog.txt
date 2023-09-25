@@ -1,4 +1,6 @@
 [changelog]
+  [359-250923] - Finished iterators for htable and darray.
+
   [358-240923] - More work on some iterator stuff.
 
   [357-230923] - More work on resource restructuring, adding some iterator stuff
