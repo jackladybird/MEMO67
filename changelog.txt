@@ -1,4 +1,6 @@
 [changelog]
+  [364-290923] - Resource work.
+
   [363-280923] - Again more bundle work.
 
   [362-270923] - More bundle work.
