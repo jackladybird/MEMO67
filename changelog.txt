@@ -1,4 +1,6 @@
 [changelog]
+  [365-300923] - Cleanup, planning basic basic editor for position static models.
+
   [364-290923] - Resource work.
 
   [363-280923] - Again more bundle work.
