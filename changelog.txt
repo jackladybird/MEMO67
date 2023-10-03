@@ -1,4 +1,6 @@
 [changelog]
+  [368-031023] - Updated repository source, now on ssh server.
+
   [367-021023] - Finishing up ssh server. Working on a scene system.
 
   [366-011023] - Setting up Linux box for ssh, going to move repo.
