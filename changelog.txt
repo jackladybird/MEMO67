@@ -1,4 +1,6 @@
 [changelog]
+  [369-031023] - Updating non-versioned files to new repo source, and removed
+    .git, and .cache from svn.
   [368-031023] - Updated repository source, now on ssh server.
 
   [367-021023] - Finishing up ssh server. Working on a scene system.
