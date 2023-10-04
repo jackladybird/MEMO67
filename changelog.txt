@@ -1,4 +1,6 @@
 [changelog]
+  [370-041023] - Renaming.
+
   [369-031023] - Updating non-versioned files to new repo source, and removed
     .git, and .cache from svn.
   [368-031023] - Updated repository source, now on ssh server.
