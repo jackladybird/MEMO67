@@ -1,4 +1,6 @@
 [changelog]
+  [372-051023] - Renaming.
+
   [371-041023] - Repo update.
   [370-041023] - Renaming.
 
@@ -288,7 +290,7 @@
 
   [240-070623] - Version 0 of resource file packing working for textures. DDS
   files are now packed to minimal representation in bundle (i.e discards unused
-  data blocks beyond mips/pixels/header). Fixed bug with yak_string/char* hashing.
+  data blocks beyond mips/pixels/header). Fixed bug with mstring/char* hashing.
 
   [239-060623] - Further work on resources/files etc. Drastic changes, almost
   done.
@@ -367,7 +369,7 @@
   [215-130523] - Bug fixes. Started a refactor on shader stuff.
 
   [214-120523] - Fixed some minor memory leaks. Added hotloading for tiles.
-  Bug fixes for yak_string. Added wireframe cube/sphere debug. Prototyping #0-4.
+  Bug fixes for mstring. Added wireframe cube/sphere debug. Prototyping #0-4.
 
   [213-110523] - Added function to render transparent sprites after other
   sprites, this is so I can use a different shader and not write to gbuf_wpos so
@@ -396,12 +398,12 @@
   Added property component which is essentially a set a bitflags that can be 
   used for custom properties.
 
-  [205-030523] - More bug fixing for collision/yakx. Added fixed time step for
-   yakx updates. Collisions/yakx working as intended for now.
+  [205-030523] - More bug fixing for collision/mphyx. Added fixed time step for
+   mphyx updates. Collisions/mphyx working as intended for now.
 
-  [204-020523] - Bug fixing for collision/yakx.
+  [204-020523] - Bug fixing for collision/mphyx.
 
-  [203-010523] - Finishing basic collisions/yakx. Working well, just need to cleanup
+  [203-010523] - Finishing basic collisions/mphyx. Working well, just need to cleanup
   and better check objects moving at higher velocity, e.g some things are getting
   stuck in the ground when landing.
 
@@ -711,7 +713,7 @@
                - Some minor changes to cameras and how frustums are stored.
                - Re-enabled sprite batcher with new depth sorting stuff, it's in a basic working mode, needs to be bullet-proofed.
                - Restructured the line renderer, no longer has a 'line_renderer' object, just basic functions. The new model is similar to 
-               the primitive/collider/yak_handle.
+               the primitive/collider/MEMO67_handle.
 
   [097-300123] - Added on_collide functions for colliders.
                - Removed 'rect_2d', now there's just bbox and a separate collider struct.
@@ -901,5 +903,5 @@ GitHub initial commit started at svn version [050], 010123.
 Official start date 021122. - Project started 260922 with svn commit [001],
 however, real work started on 021122 with svn commit [021].
 
---yakmelon
+--MEMO67melon
 
