@@ -1,4 +1,6 @@
 [changelog]
+  [374-071023] - Work on loading from cached files.
+
   [373-061023] - Work on resource hashing.
 
   [372-051023] - Renaming.
