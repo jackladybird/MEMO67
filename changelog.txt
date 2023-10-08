@@ -1,4 +1,6 @@
 [changelog]
+  [375-081023] - Bug fixes.
+
   [374-071023] - Work on loading from cached files.
 
   [373-061023] - Work on resource hashing.
