@@ -1,4 +1,8 @@
 [changelog]
+  [376-091023] - Fixed bug with htable iterator not walking buckets that contain
+  collided hashes (buckets with valid linked lists) correctly. Fixed bundle
+  packing/loading hash generation bug.
+
   [375-081023] - Bug fixes.
 
   [374-071023] - Work on loading from cached files.
