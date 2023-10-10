@@ -1,4 +1,8 @@
 [changelog]
+  [377-101023] - Cleanup for project cache stuff. Hotloading re-enabled for
+  textures. Improvements to resources hash handling, cache files will be
+  generated as soon as source files are modified/added.
+
   [376-091023] - Fixed bug with htable iterator not walking buckets that contain
   collided hashes (buckets with valid linked lists) correctly. Fixed bundle
   packing/loading hash generation bug.
