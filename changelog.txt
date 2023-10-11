@@ -1,4 +1,7 @@
 [changelog]
+  [379-111023] - Optimisations, cleanup, and improvements for bundle and cache 
+  handling, builtin bundles can now be embedded into executable.
+
   [378-101023] - Optimisations for file read/write.
   [377-101023] - Cleanup for project cache stuff. Hotloading re-enabled for
   textures. Improvements to resources hash handling, cache files will be
