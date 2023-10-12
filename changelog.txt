@@ -1,4 +1,7 @@
 [changelog]
+  [380-121023] - Moved splash screen into core. Removed redundant code for old
+  reousrce generation stuff. Work on scene / debug hud.
+
   [379-111023] - Optimisations, cleanup, and improvements for bundle and cache 
   handling, builtin bundles can now be embedded into executable.
 
