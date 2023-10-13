@@ -1,4 +1,9 @@
 [changelog]
+  [381-131023] - Added stack datastructure. Added 'core_state', defined core 
+  states can be popped/pushed onto stack, the topmost state will be the one that
+  is run (i.e splash screen, debug, editor, play, etc). Added user typing input
+  into text component, for later use with text boxes etc.
+
   [380-121023] - Moved splash screen into core. Removed redundant code for old
   reousrce generation stuff. Work on scene / debug hud.
 
