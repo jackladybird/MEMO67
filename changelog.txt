@@ -1,4 +1,6 @@
 [changelog]
+  [382-131023] - Added queue data structure. Added selection history. Added
+  selectable 'on_deselect()' callback.
   [381-131023] - Added stack datastructure. Added 'core_state', defined core 
   states can be popped/pushed onto stack, the topmost state will be the one that
   is run (i.e splash screen, debug, editor, play, etc). Added user typing input
