@@ -1,4 +1,6 @@
 [changelog]
+  [383-141023] - Added functional text box. Preprocessor cleanup.
+
   [382-131023] - Added queue data structure. Added selection history. Added
   selectable 'on_deselect()' callback.
   [381-131023] - Added stack datastructure. Added 'core_state', defined core 
