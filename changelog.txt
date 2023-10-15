@@ -1,4 +1,8 @@
 [changelog]
+  [384-151023] - Changed how input is stored, internal arrays are now more
+  agnostic, VK keys are now converted to corresponding interal kew. Last VK code
+  is stored and added function to get last as ascii char for text box input.
+
   [383-141023] - Added functional text box. Preprocessor cleanup.
 
   [382-131023] - Added queue data structure. Added selection history. Added
