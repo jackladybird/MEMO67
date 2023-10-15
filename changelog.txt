@@ -1,7 +1,10 @@
 [changelog]
+  [385-161023] - Changed 'text box' to 'text edit', i.e the text input is
+  directly bound to a text component, rather than to a 'text box' wrapper,
+  makes things a bit simpler. Added text blink caret.
   [384-151023] - Changed how input is stored, internal arrays are now more
-  agnostic, VK keys are now converted to corresponding interal kew. Last VK code
-  is stored and added function to get last as ascii char for text box input.
+  agnostic, VK keys are now converted to corresponding interal key. Added 
+  function to translate last VK code to ascii char for text box input.
 
   [383-141023] - Added functional text box. Preprocessor cleanup.
 
