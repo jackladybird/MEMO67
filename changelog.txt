@@ -1,4 +1,5 @@
 [changelog]
+  [387-161023] - Added scrollable text list (working with selectables).
   [386-161023] - Text edit cleanup. (last commit was 151023, not 161023).
 
   [385-151023] - Changed 'text box' to 'text edit', i.e the text input is
