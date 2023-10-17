@@ -1,4 +1,7 @@
 [changelog]
+  [388-171023] - Improvements to text lists. Added available meshes text list
+  for editor.
+
   [387-161023] - Added scrollable text list (working with selectables).
   [386-161023] - Text edit cleanup. (last commit was 151023, not 161023).
 
