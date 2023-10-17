@@ -1,4 +1,6 @@
 [changelog]
+  [389-171023] - Adding editor controls. Basic gizmo etc. Not 100% on
+  editor/scene/objects design yet.
   [388-171023] - Improvements to text lists. Added available meshes text list
   for editor.
 
