@@ -1,4 +1,8 @@
 [changelog]
+  [390-171023] - Added selectable func pointer 'on_hold'. Selectables with a
+  valid 'on_hold' function will run regardless of if the mouse remains on the
+  selectable, just needs initial click, expected behaviour. Clicking on a mesh
+  list element will create a scene object on the current scene.
   [389-171023] - Adding editor controls. Basic gizmo etc. Not 100% on
   editor/scene/objects design yet.
   [388-171023] - Improvements to text lists. Added available meshes text list
