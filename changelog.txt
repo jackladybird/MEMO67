@@ -1,4 +1,7 @@
 [changelog]
+  [391-181023] - Editor mesh list is populated with bundle_resource names now.
+  Some changes to project hashes, including bundle name per entry.
+
   [390-171023] - Added selectable func pointer 'on_hold'. Selectables with a
   valid 'on_hold' function will run regardless of if the mouse remains on the
   selectable, just needs initial click, expected behaviour. Clicking on a mesh
