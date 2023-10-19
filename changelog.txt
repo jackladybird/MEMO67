@@ -1,4 +1,8 @@
 [changelog]
+  [393-191023] - Added hashset data structure. Multiple selectables can now be
+  selected (excluding sprite_ui), shift to add to selection, ctrl to remove from
+  selection. Selected selectables are drawn in pulsing wireframe.
+
   [392-181023] - Selectable ids are now rendered in a separate pass, whilst this
   method is slightly slower (for now), manually handling output of correct
   select_id in each shader was becoming cumbersome. This simplifies a lot of
@@ -6,7 +10,6 @@
   I can think of to implement later on, but for now, any
   mesh_renderer/sprite_renderer/sprite_ui that has a selectable, is redrawn in
   the selectable pass.
-
   [391-181023] - Editor mesh list is populated with bundle_resource names now.
   Some changes to project hashes, including bundle name per entry.
 
