@@ -1,4 +1,5 @@
 [changelog]
+  [394-191023] - Bug fixes and improvements to selection stuff.
   [393-191023] - Added hashset data structure. Multiple selectables can now be
   selected (excluding sprite_ui), shift to add to selection, ctrl to remove from
   selection. Selected selectables are drawn in pulsing wireframe.
