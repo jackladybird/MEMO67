@@ -1,5 +1,7 @@
 [changelog]
-  [395-191023] - Added separate gizmo component (no long a flag of mesh_renderer).
+  [396-201023] - Gizmo improvements, selection improvements.
+
+  [395-191023] - Added separate gizmo component (no longer a flag of mesh_renderer).
   [394-191023] - Bug fixes and improvements to selection stuff.
   [393-191023] - Added hashset data structure. Multiple selectables can now be
   selected (excluding sprite_ui), shift to add to selection, ctrl to remove from
