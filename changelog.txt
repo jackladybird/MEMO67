@@ -1,4 +1,10 @@
 [changelog]
+  [397-211023] - Working on moving the wrapper in prototype_0 into core, will
+  probably private some of the raw sprite_ui, only access sprite_ui indirectly
+  through ui wrapper (the wrapper just constrains positions and sizes to a grid,
+  and handles resizing of elements correctly. Also handles child/parent
+  transform, but I will likely move that out to more general transform stuff).
+
   [396-201023] - Gizmo improvements, selection improvements.
 
   [395-191023] - Added separate gizmo component (no longer a flag of mesh_renderer).
