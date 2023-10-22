@@ -1,5 +1,7 @@
 [changelog]
-  [401-221023] - Commit before implementing component contains stored as part of
+  [402-221023] - Extremely basic scene save/load, just handling transform and
+  mesh at the moment. Needs heavy cleanup, spaghetti.
+  [401-221023] - Commit before implementing component containers stored as part of
   scenes.
   [400-221023] - Improvements to ui wrapper.
   [399-221023] - Further ui work, improvements to ui wrapper, added drag scroll
