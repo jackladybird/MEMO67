@@ -1,4 +1,6 @@
 [changelog]
+  [401-221023] - Commit before implementing component contains stored as part of
+  scenes.
   [400-221023] - Improvements to ui wrapper.
   [399-221023] - Further ui work, improvements to ui wrapper, added drag scroll
   to text lists.
