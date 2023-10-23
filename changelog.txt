@@ -1,4 +1,9 @@
 [changelog]
+  [403-231023] - Various improvements and cleanup for text edit, text, ui, added
+  callbacks for text_edit on carriage return, bit of builtin shader work, added
+  transform translation and scale to editor inspector, can change its properties
+  via text field.
+
   [402-221023] - Extremely basic scene save/load, just handling transform and
   mesh at the moment. Needs heavy cleanup, spaghetti.
   [401-221023] - Commit before implementing component containers stored as part of
