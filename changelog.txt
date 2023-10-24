@@ -1,4 +1,7 @@
 [changelog]
+  [404-241023] - Fixed some bugs with text positioning with ui wrapper/grid
+  system.
+
   [403-231023] - Various improvements and cleanup for text edit, text, ui, added
   callbacks for text_edit on carriage return, bit of builtin shader work, added
   transform translation and scale to editor inspector, can change its properties
