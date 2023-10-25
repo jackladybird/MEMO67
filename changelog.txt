@@ -1,4 +1,6 @@
 [changelog]
+  [406-251023] - Some changes to default text origins, and updates to text_list.
+
   [405-241023] - More work on text stuff.
   [404-241023] - Fixed some bugs with text positioning re: ui wrapper/grid
   system.
