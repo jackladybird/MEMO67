@@ -1,4 +1,8 @@
 [changelog]
+  [408-261023] - Work on aspect ratio and UI, target aspect ratio is now
+  predefined, UI is position such that it conforms to a rect of the defined
+  aspect ratio, regardless of resize; similar to aspect ratio 'black bars'.
+
   [407-251023] - Work on ui stuff.
   [406-251023] - Some changes to default text origins, and updates to text_list.
 
