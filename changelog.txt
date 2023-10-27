@@ -1,5 +1,6 @@
 [changelog]
-  [410-271023] - Minor tweaaks to ui wrapper + commenting quirks. Window size 
+  [411-271023] - Further tweaks to ui stuff.
+  [410-271023] - Minor tweaks to ui wrapper + commenting quirks. Window size 
   minimums are now enforced.
 
   [409-261023] - Trying to find source of weird resize flicker bug. Have found
