@@ -1,8 +1,11 @@
 [changelog]
+  [410-271023] - Minor tweaaks to ui wrapper + commenting quirks. Window size 
+  minimums are now enforced.
+
   [409-261023] - Trying to find source of weird resize flicker bug. Have found
-  two temporary fixes, though further enquire is probably necessary, I think it
-  may be a vendor-side bug as pc restart fixes it, gpu driver doesn't fix,
-  assumption is that Desktop Window Manager for Windows is causing it.
+  two temporary fixes, though further enquiry is probably necessary, I think it
+  may be a vendor-side bug as pc restart fixes it, gpu driver restart doesn't fix,
+  assumption is that Desktop Window Manager from Windows is causing it.
   [408-261023] - Work on aspect ratio and UI, target aspect ratio is now
   predefined, UI is positioned to conform to a rect of the defined
   aspect ratio, regardless of resize; similar to aspect ratio 'black bars'.
