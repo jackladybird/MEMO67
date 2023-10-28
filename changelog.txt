@@ -1,4 +1,6 @@
 [changelog]
+  [412-281023] - Improvements and bug fixes. Work on inspector transform ui.
+
   [411-271023] - Further tweaks to ui stuff.
   [410-271023] - Minor tweaks to ui wrapper + commenting quirks. Window size 
   minimums are now enforced.
