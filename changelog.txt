@@ -1,4 +1,5 @@
 [changelog]
+  [414-291023] - Work on material tab for editor inspector.
   [413-291023] - Added ui checkbox, bug fixes.
 
   [412-281023] - Improvements and bug fixes. Work on inspector transform ui.
