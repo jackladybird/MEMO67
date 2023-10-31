@@ -1,4 +1,5 @@
 [changelog]
+  [417-311023] - Added wip image list (grid of scrollable images).
   [416-311023] - Added mouse over popups for selectables.
 
   [415-301023] - Improvements to gizmos, now with bidirectional, and root
