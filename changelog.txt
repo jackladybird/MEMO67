@@ -1,4 +1,6 @@
 [changelog]
+  [416-311023] - Added mouse over popups for selectables.
+
   [415-301023] - Improvements to gizmos, now with bidirectional, and root
   handles, shift to scale on any gizmo. Work on scene load/save.
 
