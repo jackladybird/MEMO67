@@ -1,4 +1,6 @@
 [changelog]
+  [418-011123] - More work on img list. Can now change model texture via
+  material inspector (basic).
   [417-311023] - Added wip image list (grid of scrollable images).
   [416-311023] - Added mouse over popups for selectables.
 
