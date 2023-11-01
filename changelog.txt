@@ -1,5 +1,7 @@
 [changelog]
 
+  [421-011123] - Added scene list for load/save. Added text display offset
+  (display text starting at x character index).
   [420-011123] - Improvements to text list.
   [419-011123] - Added duplicate selection and delete selection.
   [418-011123] - More work on img list. Can now change model texture via
