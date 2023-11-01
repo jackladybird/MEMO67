@@ -1,5 +1,6 @@
 [changelog]
 
+  [420-011123] - Improvements to text list.
   [419-011123] - Added duplicate selection and delete selection.
   [418-011123] - More work on img list. Can now change model texture via
   material inspector (basic).
