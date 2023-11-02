@@ -1,4 +1,5 @@
 [changelog]
+  [422-021123] - Added mesh hotload.
 
   [421-011123] - Added scene list for load/save. Added text display offset
   (display text starting at x character index).
