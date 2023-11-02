@@ -1,4 +1,6 @@
 [changelog]
+  [423-021123] - Improvements to ui. Text input is now blocked for code that
+  is outside of text_edit context during text input.
   [422-021123] - Added mesh hotload.
 
   [421-011123] - Added scene list for load/save. Added text display offset
