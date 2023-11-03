@@ -1,4 +1,7 @@
 [changelog]
+  [425-031123] - Improvements to shader handling. Improvements to scene
+  write/load.
+
   [424-021123] - Improvements to scene stuff, working on updating prototype to
   use new resource/scene stuff. Integrated scene load/save into bundle stuff.
   [423-021123] - Improvements to ui. Text input is now blocked for code that
