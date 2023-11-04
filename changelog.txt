@@ -1,4 +1,6 @@
 [changelog]
+  [426-041123] - Commit before cleanup.
+
   [425-031123] - Improvements to shader handling. Improvements to scene
   write/load.
 
