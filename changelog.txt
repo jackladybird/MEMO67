@@ -1,4 +1,7 @@
 [changelog]
+  [428-061123] - Added per-vertex 3d animation system + component for playback,
+  very simple.
+
   [427-051123] - Shader hotloading working again.
   [426-041123] - Commit before cleanup.
 
