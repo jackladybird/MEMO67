@@ -1,4 +1,6 @@
 [changelog]
+  [430-071123] - Started on packed animation file format.
+
   [429-061123] - Cleanup and animation testing.
   [428-061123] - Added per-vertex 3d animation system + component for playback,
   very simple.
