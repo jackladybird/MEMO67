@@ -1,11 +1,12 @@
 [changelog]
-  [430-071123] - Started on packed animation file format.
+  [431-071123] - Added packed animation file read/write.
+  [430-061123] - Started on packed animation file format.
 
-  [429-061123] - Cleanup and animation testing.
-  [428-061123] - Added per-vertex 3d animation system + component for playback,
+  [429-051123] - Cleanup and animation testing.
+  [428-051123] - Added per-vertex 3d animation system + component for playback,
   very simple.
-
   [427-051123] - Shader hotloading working again.
+
   [426-041123] - Commit before cleanup.
 
   [425-031123] - Improvements to shader handling. Improvements to scene
