@@ -1,6 +1,9 @@
 [changelog]
-  [432-071123] - Fixed bugs and updated release build resource bundle stuff,
-  still need to cleanup a lof of the generation code, bit confusing.
+  [433-071123] - Work on resource file writing / bundle handling. Doing some
+  stress testing larger scenes.
+
+  [432-061123] - Fixed bugs with, and updated release build resource bundle stuff,
+  still need to cleanup a lot of the generation code, bit confusing.
   [431-061123] - Added packed animation file read/write.
   [430-061123] - Started on packed animation file format.
 
