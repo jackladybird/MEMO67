@@ -1,7 +1,10 @@
 [changelog]
+
+  [435-071123] - Rendering optimisations, reduced texture bind calls, reduced
+  vertex/index/layout bind calls.
   [434-071123] - Cleaned up resource bundle path handling and generation
   handling, much cleaner. Added command line flag to build release bundles as
-  well as builting bundle binary.
+  well as building builtin bundle binary.
   [433-071123] - Work on resource file writing / bundle handling. Doing some
   stress testing on larger scenes.
 
