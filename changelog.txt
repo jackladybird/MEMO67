@@ -1,4 +1,6 @@
 [changelog]
+  [437-081123] - Added cull routine for drawing selectable ids. Updated
+  instancing to work with 3d animation stuff.
   [436-081123] - Improvements to editor layout.
 
   [435-071123] - Rendering optimisations, reduced texture bind calls, reduced
