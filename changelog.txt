@@ -1,4 +1,5 @@
 [changelog]
+  [436-081123] - Improvements to editor layout.
 
   [435-071123] - Rendering optimisations, reduced texture bind calls, reduced
   vertex/index/layout bind calls.
