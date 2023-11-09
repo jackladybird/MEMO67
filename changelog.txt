@@ -1,4 +1,6 @@
 [changelog]
+  [438-091123] - Improvements to transparency stuff.
+
   [437-081123] - Added cull routine for drawing selectable ids. Updated
   instancing to work with 3d animation stuff.
   [436-081123] - Improvements to editor layout.
