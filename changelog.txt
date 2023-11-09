@@ -1,4 +1,6 @@
 [changelog]
+  [439-091123] - More work on transparency stuff, added various toggles to
+  material inspector (alpha clip, shadows, etc).
   [438-091123] - Improvements to transparency stuff.
 
   [437-081123] - Added cull routine for drawing selectable ids. Updated
@@ -23,6 +25,7 @@
   very simple.
   [427-051123] - Shader hotloading working again.
 
+-
   [426-041123] - Commit before cleanup.
 
   [425-031123] - Improvements to shader handling. Improvements to scene
