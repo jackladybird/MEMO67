@@ -1,4 +1,7 @@
 [changelog]
+
+  [440-091123] - Added camera stack, topmost stack camera is active. Working on
+  updating prototype_0 to use new features.
   [439-091123] - More work on transparency stuff, added various toggles to
   material inspector (alpha clip, shadows, etc).
   [438-091123] - Improvements to transparency stuff.
