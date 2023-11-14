@@ -1,4 +1,6 @@
 [changelog]
+  [447-141123] - Fixed a fustum culling bug, added fustum cull toggle to
+  editor inspector. 
   [446-141123] - More work on collision stuff.
   [445-141123] - Terrain collision work.
 
