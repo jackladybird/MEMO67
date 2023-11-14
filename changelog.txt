@@ -1,4 +1,6 @@
 [changelog]
+  [445-141123] - Terrain collision work.
+
   [444-131123] - Added terrain collider type, can add a terrain collider to a
   valid mesh renderer (mesh must be even grid), added bbox-terrain collision
   resolution. Scenes now write/load colliders.
