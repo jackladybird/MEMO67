@@ -1,4 +1,5 @@
 [changelog]
+  [446-141123] - More work on collision stuff.
   [445-141123] - Terrain collision work.
 
   [444-131123] - Added terrain collider type, can add a terrain collider to a
