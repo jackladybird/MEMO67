@@ -1,5 +1,9 @@
 [changelog]
-  [447-141123] - Fixed a fustum culling bug, added fustum cull toggle to
+  [448-151123] - Added locators to scenes, can store pos/radius and lookup via
+  name. Save/load updates for locator support. Added locator editor support,
+  added selected mesh text info.
+
+  [447-141123] - Fixed a frustum culling bug, added frustum cull toggle to
   editor inspector. 
   [446-141123] - More work on collision stuff.
   [445-141123] - Terrain collision work.
