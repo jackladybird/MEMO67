@@ -1,4 +1,7 @@
 [changelog]
+  [450-161123] - Fixed bug with shader utils, updated skybox to use resource
+  files, added skybox sampling to composite pass, added skybox bind util
+  function.
   [449-161123] - Fixed some bugs with locator naming within editor.
 
   [448-151123] - Added locators to scenes, can store pos/radius and lookup via
