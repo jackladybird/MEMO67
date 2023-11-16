@@ -1,4 +1,6 @@
 [changelog]
+  [449-161123] - Fixed some bugs with locator naming within editor.
+
   [448-151123] - Added locators to scenes, can store pos/radius and lookup via
   name. Save/load updates for locator support. Added locator editor support,
   added selected mesh text info.
