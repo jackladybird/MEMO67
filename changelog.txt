@@ -1,4 +1,7 @@
 [changelog]
+  [451-161123] - Moved skybox sampling to transparent resolve pass, will need to
+  add a new transparent shader key + render flag if non-transparent objects 
+  need skybox reflectance (i.e shiny/metal), detailed in dailies head.
   [450-161123] - Fixed bug with shader utils, updated skybox to use resource
   files, added skybox sampling to composite pass, added skybox bind util
   function.
