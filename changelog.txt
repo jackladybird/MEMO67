@@ -1,4 +1,6 @@
 [changelog]
+  [452-171123] - Fixed bug with collision offsets.
+
   [451-161123] - Moved skybox sampling to transparent resolve pass, will need to
   add a new transparent shader key + render flag if non-transparent objects 
   need skybox reflectance (i.e shiny/metal), detailed in dailies head.
