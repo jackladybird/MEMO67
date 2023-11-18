@@ -1,4 +1,7 @@
 [changelog]
+  [453-181123] - Fixed another bug with collision offsets. Improvements to
+  collision code. Updating prototype_0.
+
   [452-171123] - Fixed bug with collision offsets.
 
   [451-161123] - Moved skybox sampling to transparent resolve pass, will need to
