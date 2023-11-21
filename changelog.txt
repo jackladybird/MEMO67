@@ -1,5 +1,9 @@
 [changelog]
-  [457-201123] - Fixed bug with buffer handle writing, few other minor bugs.
+  [458-211123] - Improved default position for scene object add. Cleanup and
+  improvements to resource headers, enforcing magic number checks. Added version
+  numbers to resource headers.
+
+  [457-201123] - Fixed bug with buffer handle writing, and a few other minor bugs.
   [456-201123] - Testing stacked terrain collisions. Added support for locator
   duplication. Added backup scene write. Fixed bug with buffer handle writing
   buffer size, not actual write size. Improvements to written resource hash
