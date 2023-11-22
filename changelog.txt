@@ -1,4 +1,5 @@
 [changelog]
+  [461-221123] - Fixed some collision set bugs.
   [460-221123] - Updating prototype_0.
 
   [459-211123] - Added drag increment for editor transform inspector.
