@@ -1,4 +1,6 @@
 [changelog]
+  [460-221123] - Updating prototype_0.
+
   [459-211123] - Added drag increment for editor transform inspector.
   [458-211123] - Improved default position for scene object add. Cleanup and
   improvements to resource headers, enforcing magic number checks. Added version
