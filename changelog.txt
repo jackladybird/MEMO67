@@ -1,4 +1,8 @@
 [changelog]
+  [462-231123] - Added basics for a scene outliner. Added bbox locator. Added
+  scale drag for editor inspector transform button. Bug fixes with terrain
+  collider.
+
   [461-221123] - Fixed some collision set bugs.
   [460-221123] - Updating prototype_0.
 
