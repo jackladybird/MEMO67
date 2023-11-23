@@ -1,4 +1,5 @@
 [changelog]
+  [464-231123] - Some bug fixes re: editor material changes.
   [463-231123] - Updating prototype_0.
   [462-231123] - Added basics for a scene outliner. Added bbox locator. Added
   scale drag for editor inspector transform button. Bug fixes with terrain
