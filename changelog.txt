@@ -1,4 +1,5 @@
 [changelog]
+  [469-251123] - Updates to per-vertex animation playback.
   [468-251123] - Updating prototype_0.
 
   [467-241123] - Updating prototype_0, bug hunting.
