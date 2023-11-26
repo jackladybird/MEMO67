@@ -1,4 +1,6 @@
 [changelog]
+  [470-261123] - Hunting memory bugs. Fixed all compiler warnings.
+
   [469-251123] - Updates to per-vertex animation playback.
   [468-251123] - Updating prototype_0.
 
