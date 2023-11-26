@@ -1,4 +1,5 @@
 [changelog]
+  [472-261123] - Added better enforcement for maxmimum lights.
   [471-261123] - Bug fixes, namely fixed bug with shadow buffers getting invalidated
   before shadwos are drawn.
   [470-261123] - Hunting memory bugs. Fixed all compiler warnings (gnu).
