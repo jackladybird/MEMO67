@@ -1,5 +1,7 @@
 [changelog]
-  [470-261123] - Hunting memory bugs. Fixed all compiler warnings.
+  [471-261123] - Bug fixes, namely fixed bug with shadow buffers getting invalidated
+  before shadwos are drawn.
+  [470-261123] - Hunting memory bugs. Fixed all compiler warnings (gnu).
 
   [469-251123] - Updates to per-vertex animation playback.
   [468-251123] - Updating prototype_0.
