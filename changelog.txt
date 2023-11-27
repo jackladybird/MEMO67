@@ -1,4 +1,5 @@
 [changelog]
+  [474-271123] - Updating prototype_0.
   [473-271123] - Updating prototype_0.
 
   [472-261123] - Added better enforcement for maxmimum lights.
