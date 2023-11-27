@@ -1,4 +1,6 @@
 [changelog]
+  [473-271123] - Updating prototype_0.
+
   [472-261123] - Added better enforcement for maxmimum lights.
   [471-261123] - Bug fixes, namely fixed bug with shadow buffers getting invalidated
   before shadwos are drawn.
