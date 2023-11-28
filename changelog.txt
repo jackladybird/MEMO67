@@ -1,4 +1,7 @@
 [changelog]
+  [475-281123] - Fixed bug with dyanmic colliders not evaluating callbacks when
+  mphyx not present.
+
   [474-271123] - Updating prototype_0.
   [473-271123] - Updating prototype_0.
 
