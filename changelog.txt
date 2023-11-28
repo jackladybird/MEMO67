@@ -1,4 +1,6 @@
 [changelog]
+  [477-281123] - Editor selectables and game selectables are now separated via
+  bitflag and handled appropriately.
   [476-281123] - Imrovements to collider quad tree. Added debug hud for some
   collider quad tree info.
   [475-281123] - Fixed bug with dyanmic colliders not evaluating callbacks when
