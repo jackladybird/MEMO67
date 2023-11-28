@@ -1,4 +1,6 @@
 [changelog]
+  [476-281123] - Imrovements to collider quad tree. Added debug hud for some
+  collider quad tree info.
   [475-281123] - Fixed bug with dyanmic colliders not evaluating callbacks when
   mphyx not present.
 
