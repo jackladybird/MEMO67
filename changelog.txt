@@ -1,4 +1,8 @@
 [changelog]
+  [478-291123] - Locators always use string ids now, no more hash_ids, not worth
+  the hassle to save a couple of bytes, updated scene read/write with new
+  locator name.
+
   [477-281123] - Editor selectables and game selectables are now separated via
   bitflag and handled appropriately.
   [476-281123] - Imrovements to collider quad tree. Added debug hud for some
