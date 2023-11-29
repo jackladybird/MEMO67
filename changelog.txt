@@ -1,4 +1,6 @@
 [changelog]
+
+  [479-291123] - Added MR_EDITOR_ONLY render flag. Updating prototype_0.
   [478-291123] - Locators always use string ids now, no more hash_ids, not worth
   the hassle to save a couple of bytes, updated scene read/write with new
   locator name.
