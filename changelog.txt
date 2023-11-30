@@ -1,4 +1,5 @@
 [changelog]
+  [480-301123] - Prototyping #0-86.
 
   [479-291123] - Added MR_EDITOR_ONLY render flag. Updating prototype_0.
   [478-291123] - Locators always use string ids now, no more hash_ids, not worth
