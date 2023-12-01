@@ -1,4 +1,6 @@
 [changelog]
+  [482-011223] - Prototyping #0-88.
+
   [481-301123] - Prototyping #0-87.
   [480-301123] - Prototyping #0-86.
 
