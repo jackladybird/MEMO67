@@ -1,4 +1,5 @@
 [changelog]
+  [483-011223] - Prototyping #0-89.
   [482-011223] - Prototyping #0-88.
 
   [481-301123] - Prototyping #0-87.
