@@ -1,4 +1,6 @@
 [changelog]
+  [488-031223] - Prototyping #0-93.
+
   [487-021223] - Updates to keymap input stuff. Prototyping #0-92.
   [486-021223] - Working on updating keymap funcs for new lwr/upr key handling.
   [485-021223] - Prototyping #0-91.
