@@ -1,4 +1,7 @@
 [changelog]
+  [489-041223] - Fixed bug with popups. Fixed bug with overlapping selectable
+  ids.
+
   [488-031223] - Prototyping #0-93.
 
   [487-021223] - Updates to keymap input stuff. Prototyping #0-92.
