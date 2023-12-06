@@ -1,4 +1,6 @@
 [changelog]
+  [493-061223] - Bug fixes and prototyping #0-96.
+
   [492-051223] - Prototyping #0-95.
 
   [491-041223] - Prototyping #0-95.
