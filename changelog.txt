@@ -1,4 +1,5 @@
 [changelog]
+  [497-071223] - Prototyping #0-99.
   [496-071223] - Prototyping #0-98.
   [495-071223] - Improvements to UI layout stuff. Added helper function to
   convert an ASCII array representing a set of UI elements to arrays of
