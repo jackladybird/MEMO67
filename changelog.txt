@@ -1,4 +1,8 @@
 [changelog]
+  [495-071223] - Improvements to UI layout stuff. Added helper function to
+  convert an ASCII array representing a set of UI elements to arrays of
+  UI positions and dimensions.
+
   [494-061223] - Prototyping #0-97.
   [493-061223] - Bug fixes and prototyping #0-96.
 
