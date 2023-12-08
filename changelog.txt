@@ -1,5 +1,7 @@
 [changelog]
-  [498-081223] - Prototyping #0-99.
+  [499-081223] - Lots of changes to handling of loaded/loading scenes. Scene
+  locators are now stored with scene_name as prefix.
+  [498-081223] - Prototyping #0-100.
 
   [497-071223] - Prototyping #0-99.
   [496-071223] - Prototyping #0-98.
