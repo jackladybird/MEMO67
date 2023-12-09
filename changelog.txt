@@ -1,4 +1,5 @@
 [changelog]
+  [501-091223] - Prototyping #0-101.
   [500-091223] - Now passing normal_matrix to instance shaders.
 
   [499-081223] - Lots of changes to handling of loaded/loading scenes. Scene
