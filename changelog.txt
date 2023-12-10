@@ -1,4 +1,6 @@
 [changelog]
+  [502-101223] - Prototyping #0-102.
+
   [501-091223] - Prototyping #0-101.
   [500-091223] - Now passing normal_matrix to instance shaders.
 
