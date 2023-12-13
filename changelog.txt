@@ -1,4 +1,6 @@
 [changelog]
+  [506-131223] - Prototyping #0-106.
+
   [505-121223] - Prototyping #0-105.
   [504-121223] - Prototyping #0-104.
 
