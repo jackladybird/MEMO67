@@ -1,4 +1,5 @@
 [changelog]
+  [511-151223] - Checks for input state are now done with bitflags.
   [510-141223] - Prototyping #0-110.
   [509-141223] - Prototyping #0-109.
 
