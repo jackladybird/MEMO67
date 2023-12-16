@@ -1,4 +1,6 @@
 [changelog]
+  [514-161223] - Prototyping #0-112.
+
   [513-151223] - Added transform component functions to replace the transform
   pointer, as well as revert back to original.
   [512-151223] - Prototyping #0-111.
