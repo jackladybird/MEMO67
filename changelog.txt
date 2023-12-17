@@ -1,4 +1,6 @@
 [changelog]
+  [515-171223] - Prototyping #0-113.
+
   [514-161223] - Prototyping #0-112.
 
   [513-151223] - Added transform component functions to replace the transform
