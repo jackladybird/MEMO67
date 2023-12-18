@@ -1,4 +1,6 @@
 [changelog]
+  [517-181223] - Fixed bug with gltf parsing.
+
   [516-171223] - Prototyping #0-114.
   [515-171223] - Prototyping #0-113.
 
