@@ -1,4 +1,6 @@
 [changelog]
+  [519-191223] - Minor cleanup.
+
   [518-181223] - Some changes to render order of framebuffers.
   [517-181223] - Fixed bug with gltf parsing.
 
