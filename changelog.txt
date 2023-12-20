@@ -1,4 +1,6 @@
 [changelog]
+  [520-201223] - Prototyping #0-115.
+
   [519-191223] - Minor cleanup.
 
   [518-181223] - Some changes to render order of framebuffers.
