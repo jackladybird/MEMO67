@@ -1,4 +1,7 @@
 [changelog]
+  [521-211223] - Updated editor UI to use new UI_X coords.
+  Commit before working on multiple mesh support.
+
   [520-201223] - Prototyping #0-115.
 
   [519-191223] - Minor cleanup.
