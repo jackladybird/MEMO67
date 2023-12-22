@@ -1,4 +1,6 @@
 [changelog]
+  [522-221223] - Wip towards multiple mesh/material support.
+
   [521-211223] - Updated editor UI to use new UI_X coords.
   Commit before working on multiple mesh support.
 
