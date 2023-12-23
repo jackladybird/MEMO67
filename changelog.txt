@@ -1,4 +1,6 @@
 [changelog]
+  [524-231223] - Updating mesh file format to work with multiple meshes (wip).
+
   [523-221223] - More work towards multiple mesh/material support.
   [522-221223] - Wip towards multiple mesh/material support.
 
