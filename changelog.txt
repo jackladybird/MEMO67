@@ -1,4 +1,5 @@
 [changelog]
+  [527-241223] - Animation file format for multiple mesh support basics done.
   [526-241223] - Updating animation file format for multiple mesh support (wip).
 
   [525-231223] - More multiple mesh support stuff.
