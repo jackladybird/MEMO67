@@ -1,4 +1,6 @@
 [changelog]
+  [529-261223] - Work on writing scene files with multiple meshes.
+
   [528-251223] - Work on cleanup for multiple mesh.
 
   [527-241223] - Animation file format for multiple mesh support basics done.
