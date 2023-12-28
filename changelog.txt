@@ -1,4 +1,6 @@
 [changelog]
+  [531-281223] - Work on writing scenes with model component stuff. 
+
   [530-271223] - More work on reading/writing scene files with multiple meshes.
 
   [529-261223] - Work on writing scene files with multiple meshes.
