@@ -1,4 +1,6 @@
 [changelog]
+  [534-311223] - Fixed bug with mesh caching for multiple meshes.
+
   [533-301223] - Multiple mesh work.
 
   [532-291223] - Work on scene, model component, etc. 
