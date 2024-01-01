@@ -1,4 +1,6 @@
 [changelog]
+  [535-010124] - Fixed bug with texture_set binding.
+
   [534-311223] - Fixed bug with mesh caching for multiple meshes.
 
   [533-301223] - Multiple mesh work.
