@@ -1,4 +1,6 @@
 [changelog]
+  [536-010124] - Working on editor support for multiple materials, selectables
+  now handle multiple meshes (models) now.
   [535-010124] - Fixed bug with texture_set binding.
 
   [534-311223] - Fixed bug with mesh caching for multiple meshes.
