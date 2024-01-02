@@ -1,6 +1,8 @@
 [changelog]
+  [539-020124] - Material's ids are now just u64 instead of uid64, so that I can
+  easily lookup via mstring.
   [538-020124] - Improvements to scene write/read, only scene-specific materials
-  are written now, lots of improvements to editor UI handling.
+  are written now. Lots of improvements to editor UI handling.
   [537-020124] - UI now uses materials instead of textures on creation,
   sprite_uis no longer create a unique material by default.
 
