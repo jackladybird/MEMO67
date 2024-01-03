@@ -1,5 +1,7 @@
 [changelog]
-  [539-020124] - Material's ids are now just u64 instead of uid64, so that I can
+  [540-030124] - Lots of work to editor structure.
+
+  [539-020124] - Material ids are now just u64 instead of uid64, so that I can
   easily lookup via mstring.
   [538-020124] - Improvements to scene write/read, only scene-specific materials
   are written now. Lots of improvements to editor UI handling.
