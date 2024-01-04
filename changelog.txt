@@ -1,4 +1,7 @@
 [changelog]
+  [541-040124] - UIs can now auto-hide when mouse leaves their rect. Sprite
+  selectables are now sorted correctly.
+
   [540-030124] - Lots of work to editor structure.
 
   [539-020124] - Material ids are now just u64 instead of uid64, so that I can
