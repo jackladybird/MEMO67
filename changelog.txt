@@ -1,4 +1,5 @@
 [changelog]
+  [542-040124] - Editor now uses an editor-specific composite shader.
   [541-040124] - UIs can now auto-hide when mouse leaves their rect. Sprite
   selectables are now sorted correctly.
 
