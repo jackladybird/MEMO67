@@ -1,4 +1,6 @@
 [changelog]
+  [544-060124] - Basics of searchable_mstring_set implemented (brute-force).
+
   [543-050124] - Refresh development env.
 
   [542-040124] - Editor now uses an editor-specific composite shader.
