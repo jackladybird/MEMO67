@@ -1,4 +1,6 @@
 [changelog]
+  [545-060124] - Added searchable_mstring_set to text_list, can now search the
+  text_list which filters the results.
   [544-060124] - Basics of searchable_mstring_set implemented (brute-force).
 
   [543-050124] - Refresh development env.
