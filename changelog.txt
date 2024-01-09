@@ -1,4 +1,6 @@
 [changelog]
+  [549-090124] - More work to editor layout.
+
   [548-080124] - Added various ui functions, improvements to editor.
   [547-080124] - Added larger img preview on img_list hover.
 
