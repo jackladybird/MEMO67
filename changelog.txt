@@ -1,4 +1,6 @@
 [changelog]
+  [550-100124] - Editor work, bug fixes with colliders.
+
   [549-090124] - More work to editor layout.
 
   [548-080124] - Added various ui functions, improvements to editor.
