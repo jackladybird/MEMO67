@@ -1,5 +1,7 @@
 [changelog]
-  [550-100124] - Editor work, bug fixes with colliders.
+  [551-110124] - Prototype is playable state again, now with multi-meshes.
+
+  [550-100124] - Editor work, bug fixes with colliders, ui improvements.
 
   [549-090124] - More work to editor layout.
 
