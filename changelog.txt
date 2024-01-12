@@ -1,4 +1,6 @@
 [changelog]
+  [553-120124] - Updating proto0 material stuff.
+
   [552-110124] - Cleanup and testing multi-mesh with release builds. Works fine.
   [551-110124] - Prototype is in a playable state again, now with multi-meshes.
 
