@@ -1,4 +1,6 @@
 [changelog]
+  [555-130124] - Resource cleanup stuff.
+
   [554-120124] - Prototyping #0-116.
   [553-120124] - Updating prototype material stuff.
 
