@@ -1,4 +1,6 @@
 [changelog]
+  [556-140124] - Added editor inspector tab for render flags.
+
   [555-130124] - Resource cleanup stuff.
 
   [554-120124] - Prototyping #0-116.
