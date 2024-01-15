@@ -1,4 +1,6 @@
 [changelog]
+  [557-150124] - Added separate bounds debug view.
+
   [556-140124] - Added editor inspector tab for render flags.
 
   [555-130124] - Resource cleanup stuff.
