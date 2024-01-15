@@ -1,4 +1,5 @@
 [changelog]
+  [558-150124] - Prototyping #0-117.
   [557-150124] - Added separate bounds debug view.
 
   [556-140124] - Added editor inspector tab for render flags.
