@@ -1,4 +1,6 @@
 [changelog]
+  [559-160124] - Fixed shadow pass for multi-mesh (non-instanced).
+
   [558-150124] - Prototyping #0-117.
   [557-150124] - Added separate bounds debug view.
 
