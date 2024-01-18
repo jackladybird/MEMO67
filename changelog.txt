@@ -1,4 +1,7 @@
 [changelog]
+  [562-180124] - Terrain colliders now have per-collider widths. Prototyping
+  #0-120.
+
   [561-170124] - Prototyping #0-119.
 
   [560-160124] - Imrovements to gltf->custom mesh file, ordering sub meshes to
