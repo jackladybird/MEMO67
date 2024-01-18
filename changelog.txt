@@ -1,4 +1,5 @@
 [changelog]
+  [563-180124] - Terrain intersect bugfix.
   [562-180124] - Terrain colliders now have per-collider widths. Prototyping
   #0-120.
 
