@@ -1,4 +1,6 @@
 [changelog]
+  [566-200124] - Prototyping #0-122.
+
   [565-190124] - Fixed bug with editor delete.
 
   [564-180124] - Prototyping #0-121.
