@@ -1,4 +1,6 @@
 [changelog]
+  [567-210124] - SVN repository cleanup.
+
   [566-200124] - Prototyping #0-122.
 
   [565-190124] - Fixed bug with editor delete.
