@@ -1,5 +1,8 @@
 [changelog]
+  [569-230124] - Cleanup.
+
   [568-220124] - Laptop test commit.
+
   [567-210124] - SVN repository cleanup.
 
   [566-200124] - Prototyping #0-122.
