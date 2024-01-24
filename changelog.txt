@@ -1,4 +1,5 @@
 [changelog]
+  [570-240124] - Cleanup.
   [569-230124] - Cleanup.
 
   [568-220124] - Laptop test commit.
