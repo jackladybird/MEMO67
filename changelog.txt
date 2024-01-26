@@ -1,4 +1,6 @@
 [changelog]
+  [572-260124] - Cleanup.
+
   [571-250124] - Cleanup.
 
   [570-240124] - Cleanup.
