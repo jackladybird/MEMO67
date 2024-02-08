@@ -1,4 +1,5 @@
 [changelog]
+  [585-080224] - Prototyping #0-123.
   [584-080224] - Work on zone/scene update routine separation.
 
   [583-070224] - Cleanup / returned from trip.
