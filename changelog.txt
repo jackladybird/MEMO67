@@ -1,5 +1,7 @@
 [changelog]
-  [583-070224] - Cleanup.
+  [584-080224] - Work on zone/scene update routine separation.
+
+  [583-070224] - Cleanup / returned from trip.
 
   [582-060224] - Cleanup.
 
