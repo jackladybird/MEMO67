@@ -1,4 +1,6 @@
 [changelog]
+  [586-090224] - Implementing pathfinding stuff, A* basics done, few bugs.
+
   [585-080224] - Prototyping #0-123.
   [584-080224] - Work on zone/scene update routine separation.
 
