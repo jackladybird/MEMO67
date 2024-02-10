@@ -1,4 +1,6 @@
 [changelog]
+  [587-100224] - A* bugfixes, working well now.
+
   [586-090224] - Implementing pathfinding stuff, A* basics done, few bugs.
 
   [585-080224] - Prototyping #0-123.
