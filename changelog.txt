@@ -1,4 +1,6 @@
 [changelog]
+  [589-120224] - Documenting some collision system stuff.
+
   [588-110224] - Bug hunting.
 
   [587-100224] - A* bugfixes, working well now.
