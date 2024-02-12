@@ -1,4 +1,5 @@
 [changelog]
+  [590-120224] - Prototyping #0-124.
   [589-120224] - Documenting some collision system stuff.
 
   [588-110224] - Bug hunting.
