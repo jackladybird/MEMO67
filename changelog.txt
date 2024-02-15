@@ -1,4 +1,6 @@
 [changelog]
+  [593-150224] - Bug hunting again.
+
   [592-140224] - Bug hunting.
 
   [591-130224] - Prototyping #0-125.
