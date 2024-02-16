@@ -1,4 +1,6 @@
 [changelog]
+  [594-160224] - Found and fixed bug I was looking for, re: collider disabling.
+
   [593-150224] - Bug hunting again.
 
   [592-140224] - Bug hunting.
