@@ -1,4 +1,6 @@
 [changelog]
+  [595-170224] - Improvements to collider handling.
+
   [594-160224] - Found and fixed bug I was looking for, re: collider disabling.
 
   [593-150224] - Bug hunting again.
