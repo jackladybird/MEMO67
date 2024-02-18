@@ -1,5 +1,8 @@
 [changelog]
-  [595-170224] - Improvements to collider handling.
+  [596-20240218] - Cleanup.
+
+  [595-20240217] - Improvements to collider handling. Changed commit date format
+  (YYYYMMDD).
 
   [594-160224] - Found and fixed bug I was looking for, re: collider disabling.
 
