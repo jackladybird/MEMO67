@@ -1,4 +1,6 @@
 [changelog]
+  [597-20240219] - Prototyping #0-126.
+
   [596-20240218] - Cleanup.
 
   [595-20240217] - Improvements to collider handling. Changed commit date format
