@@ -1,4 +1,6 @@
 [changelog]
+  [598-20240220] - Prototyping #0-127.
+
   [597-20240219] - Prototyping #0-126.
 
   [596-20240218] - Cleanup.
