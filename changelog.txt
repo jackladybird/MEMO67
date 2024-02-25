@@ -1,4 +1,6 @@
 [changelog]
+  [603-20240225] - Prototyping #0-132.
+
   [602-20240224] - Prototyping #0-131.
 
   [601-20240223] - Prototyping #0-130.
