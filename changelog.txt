@@ -1,4 +1,8 @@
 [changelog]
+  [605-20240227] - Added sprite_ui callback to update its shader cbufs (may be
+  revised, not sure this architecture is best), added some cbuf update helper
+  functions. Prototyping #0-134.
+
   [604-20240226] - Prototyping #0-133.
 
   [603-20240225] - Prototyping #0-132.
