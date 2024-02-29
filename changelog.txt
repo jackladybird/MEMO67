@@ -1,4 +1,8 @@
 [changelog]
+  [608-20240229] - Added 'audio_map' component, it contains audio ids that are
+  indexed and played back via sampling an array/map/texture. Will be used for
+  terrain surface audio playback.
+
   [607-20240228] - Prototyping #0-136.
 
   [606-20240227] - Prototyping #0-135.
