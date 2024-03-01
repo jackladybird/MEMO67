@@ -1,4 +1,8 @@
 [changelog]
+  [610-20240301] - Added tag component (just tags a u16 to entities). Added
+  helper function to lookup entities by tag. Added save/load stuff for tag
+  component. Prototyping #0-138.
+
   [609-20240229] - Improvemets to audio_map component. Prototyping #0-137.
   [608-20240229] - Added 'audio_map' component, it contains audio ids that are
   indexed and played back via sampling an array/map/texture. Will be used for
