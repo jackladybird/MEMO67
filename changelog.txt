@@ -1,4 +1,6 @@
 [changelog]
+  [613-20240303] - Prototyping #0-139.
+
   [612-20240302] - Added date/time tracking, platform agnostic after
   initialisation.
 
