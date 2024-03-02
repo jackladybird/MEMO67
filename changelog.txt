@@ -1,4 +1,7 @@
 [changelog]
+  [612-20240302] - Added date/time tracking, platform agnostic after
+  initialisation.
+
   [611-20240301] - Improvements to audio_map.
   [610-20240301] - Added tag component (just tags a u16 to entities). Added
   helper function to lookup entities by tag. Added save/load stuff for tag
