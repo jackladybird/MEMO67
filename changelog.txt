@@ -1,6 +1,8 @@
 [changelog]
+  [616-20240304] - Improvements to chocbar allocator.
+
   [615-20240303] - Started work on memory allocator(s), implemented basic
-  'pool/block' allocator (chocbar), it's a fixed size block allocator that can
+  'pool/block' allocator (chocbar), it's a fixed-size block allocator that can
   allocate and free, ~160% faster than malloc/free - not yet tested for robustness.
   [614-20240303] - Prototyping #0-140.
 
