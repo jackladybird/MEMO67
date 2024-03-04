@@ -1,4 +1,8 @@
 [changelog]
+  [617-20240304] - Added general purpose allocator. The two allocators (general
+  purpose & chocbar) work in tandem. All malloc/free calls have been replaced,
+  other than the single call used by each allocator (will likely need a few
+  extras later when resizing is implemented).
   [616-20240304] - Improvements to chocbar allocator.
 
   [615-20240303] - Started work on memory allocator(s), implemented basic
