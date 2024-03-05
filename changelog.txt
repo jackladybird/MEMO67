@@ -1,4 +1,6 @@
 [changelog]
+  [618-20240305] - Fixed a few bugs with chocbar allocator.
+
   [617-20240304] - Added general purpose allocator. The two allocators (general
   purpose & chocbar) work in tandem. All malloc/free calls have been replaced,
   other than the single call used by each allocator (will likely need a few
