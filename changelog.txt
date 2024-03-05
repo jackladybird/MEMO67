@@ -1,4 +1,5 @@
 [changelog]
+  [619-20240306] - Few more bug fixes.
   [618-20240305] - Fixed a few bugs with chocbar allocator.
 
   [617-20240304] - Added general purpose allocator. The two allocators (general
