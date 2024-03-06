@@ -1,4 +1,6 @@
 [changelog]
+  [620-20240307] - Debugging gp allocator.
+
   [619-20240306] - Few more bug fixes.
   [618-20240305] - Fixed a few bugs with chocbar allocator.
 
