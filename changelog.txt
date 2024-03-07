@@ -1,7 +1,10 @@
 [changelog]
-  [620-20240307] - Debugging gp allocator.
+  [621-20240307] - Fixed bug with gp allocator, tested with 100m random size
+  allocations / frees, seems to be working as expected now.
 
-  [619-20240306] - Few more bug fixes.
+  [620-20240306] - Debugging gp allocator.
+
+  [619-20240305] - Few more bug fixes.
   [618-20240305] - Fixed a few bugs with chocbar allocator.
 
   [617-20240304] - Added general purpose allocator. The two allocators (general
