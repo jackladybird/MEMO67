@@ -1,4 +1,7 @@
 [changelog]
+  [622-20240308] - Bug fixes and speed testing allocator (~540% faster than
+  malloc/free, fragmentation ratios not yet tested).
+
   [621-20240307] - Fixed bug with gp allocator, tested with 100m random size
   allocations / frees, seems to be working as expected now.
 
