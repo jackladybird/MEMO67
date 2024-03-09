@@ -1,4 +1,6 @@
 [changelog]
+  [623-20240309] - Fixed bug with controller deadzone.
+
   [622-20240308] - Bug fixes and speed testing allocator (~540% faster than
   malloc/free, fragmentation ratios not yet tested).
 
