@@ -1,4 +1,7 @@
 [changelog]
+  [625-20240311] - Prototyping #0-141. Added 'replace mesh' editor
+  functionality.
+
   [624-20240310] - Cleanup.
 
   [623-20240309] - Fixed bug with controller deadzone.
