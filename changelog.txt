@@ -1,4 +1,6 @@
 [changelog]
+  [626-20240312] - Fixed bug with static mesh after scene load.
+
   [625-20240311] - Prototyping #0-141. Added 'replace mesh' editor
   functionality.
 
