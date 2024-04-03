@@ -1,4 +1,6 @@
 [changelog]
+  [648-20240403] - Prototyping #0-142.
+
   [647-20240402] - Refreshing.
 
   [646-20240401] - Cleanup, back.
