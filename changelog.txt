@@ -1,4 +1,6 @@
 [changelog]
+  [653-20240408] - Cleanup.
+
   [652-20240407] - Cleanup.
 
   [651-20240406] - Prototyping #0-145.
