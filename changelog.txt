@@ -1,4 +1,6 @@
 [changelog]
+  [669-20240424] - Cleanup.
+
   [668-20240423] - Cleanup.
 
   [667-20240423] - Cleanup.
