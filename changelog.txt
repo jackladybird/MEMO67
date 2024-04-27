@@ -1,4 +1,6 @@
 [changelog]
+  [672-20240427] - Env cleanup / refresh.
+
   [671-20240426] - Cleanup.
 
   [670-20240425] - Cleanup.
