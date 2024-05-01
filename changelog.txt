@@ -1,4 +1,6 @@
 [changelog]
+  [676-20240501] - Prototyping #0-146.
+
   [675-20240430] - Cleanup.
 
   [674-20240429] - Env cleanup / refresh.
