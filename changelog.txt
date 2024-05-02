@@ -1,4 +1,6 @@
 [changelog]
+  [677-20240502] - Prototyping #0-147.
+
   [676-20240501] - Prototyping #0-146.
 
   [675-20240430] - Cleanup.
