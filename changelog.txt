@@ -1,4 +1,6 @@
 [changelog]
+  [678-20240503] - Prototyping #0-148.
+
   [677-20240502] - Prototyping #0-147.
 
   [676-20240501] - Prototyping #0-146.
