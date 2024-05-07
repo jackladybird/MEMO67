@@ -1,4 +1,6 @@
 [changelog]
+  [682-20240507] - Prototyping #0-149.
+
   [681-20240506] - Cleanup.
 
   [680-20240505] - Cleanup.
