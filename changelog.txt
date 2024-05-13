@@ -1,4 +1,6 @@
 [changelog]
+  [687-20240513] - Cleanup.
+
   [686-20240512] - Cleanup.
 
   [685-20240510] - Cleanup.
