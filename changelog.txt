@@ -1,4 +1,6 @@
 [changelog]
+  [694-20240520] - Cleanup.
+
   [693-20240519] - Cleanup.
 
   [692-20240518] - Cleanup.
