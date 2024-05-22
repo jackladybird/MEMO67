@@ -1,4 +1,5 @@
 [changelog]
+  [696-20240522] - Cleanup.
 
   [695-20240521] - Cleanup.
 
