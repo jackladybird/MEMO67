@@ -1,4 +1,6 @@
 [changelog]
+  [708-20240604] - Bug hunting.
+
   [707-20240603] - Bug hunting.
 
   [706-20240602] - Prototyping #0-154.
