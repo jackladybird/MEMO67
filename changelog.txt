@@ -1,4 +1,6 @@
 [changelog]
+  [709-20240605] - And more bug hunting.
+
   [708-20240604] - Bug hunting.
 
   [707-20240603] - Bug hunting.
