@@ -1,4 +1,6 @@
 [changelog]
+  [713-20240609] - WIP memory visualisation.
+
   [712-20240608] - Bug fixes re terrain/mphyx.
 
   [711-20240607] - Prototyping #0-156.
