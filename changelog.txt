@@ -1,4 +1,6 @@
 [changelog]
+  [714-20240610] - Work on chocbar memory visualisation.
+
   [713-20240609] - WIP memory visualisation.
 
   [712-20240608] - Bug fixes re terrain/mphyx.
