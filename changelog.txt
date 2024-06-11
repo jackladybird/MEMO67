@@ -1,4 +1,6 @@
 [changelog]
+  [715-20240611] - Chocbar memory visualisation done.
+
   [714-20240610] - Work on chocbar memory visualisation.
 
   [713-20240609] - WIP memory visualisation.
