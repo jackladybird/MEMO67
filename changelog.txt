@@ -1,4 +1,6 @@
 [changelog]
+  [716-20240612] - Chocbar memory split into struct system.
+
   [715-20240611] - Chocbar memory visualisation done.
 
   [714-20240610] - Work on chocbar memory visualisation.
