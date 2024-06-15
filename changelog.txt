@@ -1,4 +1,6 @@
 [changelog]
+  [719-20240615] - Cleanup.
+
   [718-20240614] - Unique custom constant buffer stuff working.
 
   [717-20240613] - Working on unique custom constant buffer data per renderable.
