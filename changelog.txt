@@ -1,4 +1,6 @@
 [changelog]
+  [723-20240619] - Cleanup.
+
   [722-20240618] - Restructuring zone handling.
 
   [721-20240617] - Prototyping #0-157.
