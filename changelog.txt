@@ -1,4 +1,6 @@
 [changelog]
+  [726-20240622] - Cleanup.
+
   [725-20240621] - Prototyping #0-159.
 
   [724-20240620] - Prototyping #0-158.
