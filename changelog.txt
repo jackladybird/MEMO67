@@ -1,4 +1,6 @@
 [changelog]
+  [732-20240705] - Misc/Reading.
+
   [731-20240704] - Misc/Reading.
 
   [730-20240703] - Misc/Reading.
