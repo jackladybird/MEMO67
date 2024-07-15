@@ -1,4 +1,6 @@
 [changelog]
+  [742-20240715] - Memory improvements.
+
   [741-20240714] - Cleanup.
 
   [740-20240713] - Cleanup.
