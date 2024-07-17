@@ -1,4 +1,6 @@
 [changelog]
+  [744-20240717] - Memory bug hunting.
+
   [743-20240716] - More memory work.
 
   [742-20240715] - Memory improvements.
