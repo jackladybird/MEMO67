@@ -1,4 +1,6 @@
 [changelog]
+  [747-20240720] - Misc.
+
   [746-20240719] - Misc.
 
   [745-20240718] - Memory bug hunting.
