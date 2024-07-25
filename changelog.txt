@@ -1,4 +1,6 @@
 [changelog]
+  [753-20240725] - Starting work on serialisation stuff.
+
   [752-20240724] - Prototyping #0-160.
   [751-20240724] - Memory allocator bug fix.
 
