@@ -1,4 +1,5 @@
 [changelog]
+  [755-20240726] - Bug fixes.
   [754-20240726] - Prototyping #0-161.
 
   [753-20240725] - Starting work on serialisation stuff.
