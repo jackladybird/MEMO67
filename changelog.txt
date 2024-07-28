@@ -1,4 +1,6 @@
 [changelog]
+  [757-20240728] - Cleanup.
+
   [756-20240727] - Prototyping #0-162.
 
   [755-20240726] - Bug fixes.
