@@ -1,4 +1,6 @@
 [changelog]
+  [765-20240805] - Cleanup.
+
   [764-20240804] - Cleanup.
 
   [763-20240803] - Cleanup.
