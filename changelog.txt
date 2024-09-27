@@ -1,4 +1,6 @@
 [changelog]
+  [781-20240927] - Added editor scene properties.
+
   [780-20240926] - Editor improvements, scene writing improvements, etc.
 
   [779-20240925] - Editor improvements and changes to scene handling.
