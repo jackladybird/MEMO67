@@ -1,4 +1,6 @@
 [changelog]
+  [782-20240927] - Work on setting quad tree parameters for collisions/zone from
+  scene data.
   [781-20240927] - Added editor scene properties.
 
   [780-20240926] - Editor improvements, scene writing improvements, etc.
