@@ -1,4 +1,6 @@
 [changelog]
+  [786-20241216] - Found collider terrain bug.
+
   [785-20241002] - Bug hunting.
 
   [784-20241001] - Added some more debug hud stuff. Still can't find bug.
