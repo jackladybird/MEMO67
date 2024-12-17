@@ -1,4 +1,6 @@
 [changelog]
+  [787-20241217] - Bug fixes.
+
   [786-20241216] - Found collider terrain bug.
 
   [785-20241002] - Bug hunting.
